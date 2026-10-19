@@ -1,0 +1,1201 @@
+loan_id,business_name,province,industry,years_in_business,annual_revenue,employees,loan_amount,loan_term_months,interest_rate,credit_score,monthly_income,repayment_status,default_flag,application_date
+1,Williams-Gonzales,KwaZulu-Natal,Technology,7,1792743,75,160268,36,16.26,470,149395.25,Current,No,2024-08-26
+2,"Olson, Rodriguez and Villa",Western Cape,Transport,4,1339911,38,328167,24,7.36,580,111659.25,Current,No,2025-04-07
+3,"Hill, Frazier and Rodriguez",Gauteng,Manufacturing,1,1496025,59,471909,24,5.61,702,124668.75,Current,No,2026-01-26
+4,Williamson-Simmons,Eastern Cape,Retail,16,1600942,131,115725,60,12.9,624,133411.83,Late,Yes,2024-06-05
+5,White and Sons,Western Cape,Agriculture,9,2670406,9,399457,24,6.27,837,222533.83,Paid Off,No,2025-03-10
+6,"Brown, Clark and Johnson",Gauteng,Transport,15,4156518,50,622843,48,9.05,713,346376.5,Current,No,2025-09-27
+7,"Gray, Wallace and Baker",Western Cape,Agriculture,6,4010197,44,391097,24,10.14,709,334183.08,Current,No,2026-03-29
+8,Miller-Ramos,North West,Construction,4,1146797,82,585822,60,12.63,664,95566.42,Current,No,2025-01-21
+9,Richardson Ltd,Northern Cape,Technology,13,1385160,9,612332,12,7.58,464,115430.0,Current,No,2024-12-02
+10,Jacobs and Sons,Northern Cape,Transport,11,1837095,135,63986,12,13.1,738,153091.25,Late,No,2024-09-05
+11,Kim PLC,KwaZulu-Natal,Transport,2,4645583,104,963910,36,12.3,511,387131.92,Current,No,2023-11-20
+12,Williams-Mcdonald,Limpopo,Manufacturing,3,2048260,137,189182,24,5.33,580,170688.33,Late,No,2025-12-31
+13,"Hester, Combs and Clark",Eastern Cape,Hospitality,13,2450770,143,819598,36,7.64,801,204230.83,Late,Yes,2024-11-30
+14,Harvey Group,Western Cape,Agriculture,13,3570495,45,911882,12,6.37,692,297541.25,Current,No,2025-04-07
+15,Hodges-Patel,Limpopo,Transport,12,4494539,129,75939,12,13.42,735,374544.92,Paid Off,No,2026-08-16
+16,"Cooper, Mendoza and Short",Northern Cape,Hospitality,13,502690,51,549046,24,9.39,647,41890.83,Current,No,2026-06-04
+17,"Wright, Black and Huffman",Northern Cape,Transport,15,1484250,113,929989,12,8.3,609,123687.5,Current,No,2026-04-13
+18,Parker LLC,Gauteng,Retail,12,4359622,113,815313,24,11.53,836,363301.83,Current,No,2024-08-26
+19,"Mendoza, Bryant and Young",Mpumalanga,Technology,5,369536,68,367824,36,9.81,575,30794.67,Current,No,2026-02-09
+20,"Mccall, Perez and Pratt",Gauteng,Retail,17,1841093,124,511079,36,7.42,774,153424.42,Late,No,2023-10-22
+21,"Chambers, Alvarado and Thomas",KwaZulu-Natal,Transport,3,4606259,96,183883,48,17.23,795,383854.92,Current,No,2025-12-23
+22,Jones-Zhang,Northern Cape,Retail,8,171295,42,793974,36,7.97,787,14274.58,Paid Off,No,2026-01-09
+23,Thomas-Ellis,Gauteng,Hospitality,16,3604473,140,157512,60,16.71,509,300372.75,Current,No,2025-05-26
+24,Barnett LLC,North West,Hospitality,9,4992306,120,589439,12,13.35,657,416025.5,Paid Off,No,2025-05-29
+25,Perry and Sons,Northern Cape,Manufacturing,11,478480,93,82711,24,7.09,553,39873.33,Late,Yes,2025-09-21
+26,"Johnson, Shaw and Hoffman",Eastern Cape,Retail,18,2200021,68,831474,12,11.42,657,183335.08,Paid Off,No,2024-11-11
+27,"Salinas, White and Werner",Gauteng,Transport,16,1807923,115,108871,60,11.33,833,150660.25,Late,No,2024-04-26
+28,Johnston-Sexton,Gauteng,Transport,8,1299386,111,342890,12,7.54,675,108282.17,Current,No,2024-12-25
+29,Velez-Davis,Free State,Hospitality,16,3872962,99,946048,48,5.2,466,322746.83,Paid Off,No,2025-08-01
+30,Alexander-Jones,Gauteng,Transport,17,231373,67,488452,24,12.24,544,19281.08,Paid Off,No,2026-04-16
+31,Santos Inc,Western Cape,Technology,3,545101,130,86631,24,14.63,563,45425.08,Late,No,2025-08-20
+32,Blake Group,KwaZulu-Natal,Agriculture,1,598863,13,417654,48,11.65,619,49905.25,Paid Off,No,2026-05-14
+33,"Ortega, Lam and Lopez",KwaZulu-Natal,Technology,4,4028083,143,314512,48,12.53,713,335673.58,Late,No,2026-01-02
+34,Keller LLC,Mpumalanga,Agriculture,19,3339576,58,102921,12,5.49,512,278298.0,Paid Off,No,2025-09-29
+35,Hull-Clay,Free State,Transport,6,2381230,108,407429,60,10.94,550,198435.83,Current,No,2026-08-06
+36,Sloan-Lee,KwaZulu-Natal,Technology,6,3967500,52,239407,60,17.6,821,330625.0,Current,No,2024-02-27
+37,Green-Peters,KwaZulu-Natal,Transport,10,3067197,58,272866,24,5.33,594,255599.75,Current,No,2024-02-04
+38,Ramirez-Mclean,Gauteng,Technology,9,4394539,34,124740,12,13.58,578,366211.58,Current,No,2026-02-20
+39,Chapman Inc,Mpumalanga,Construction,1,4701020,76,496438,24,9.63,641,391751.67,Current,No,2025-07-24
+40,Rodriguez Inc,Gauteng,Hospitality,5,4498165,144,405612,24,14.92,669,374847.08,Current,No,2025-10-18
+41,Mays-Bailey,Limpopo,Agriculture,7,2682115,10,505968,60,16.53,703,223509.58,Current,No,2025-01-25
+42,"Atkins, Hall and Jordan",Free State,Construction,10,3793305,4,422370,24,5.34,545,316108.75,Paid Off,No,2026-07-25
+43,"Davis, Leach and Santiago",KwaZulu-Natal,Retail,12,4830530,74,403824,36,7.55,628,402544.17,Paid Off,No,2025-11-13
+44,"Barajas, Garcia and Henry",KwaZulu-Natal,Technology,13,1414093,81,717521,24,9.15,702,117841.08,Current,No,2026-09-27
+45,Parsons-Boyd,Eastern Cape,Agriculture,10,3453597,114,115953,60,17.18,564,287799.75,Current,No,2024-04-23
+46,Sanders-Rodriguez,Free State,Retail,4,3306420,99,270156,48,9.84,698,275535.0,Current,No,2024-03-13
+47,Vasquez-White,Gauteng,Technology,7,2100991,13,794086,12,8.1,639,175082.58,Current,No,2026-03-22
+48,"Reyes, Little and Walters",Mpumalanga,Construction,17,4929040,19,588685,12,5.7,533,410753.33,Paid Off,No,2025-10-23
+49,Lynch-Hale,Free State,Construction,9,4198502,99,109163,48,9.27,655,349875.17,Late,No,2024-11-18
+50,Smith-Alexander,Limpopo,Hospitality,4,3888340,122,372710,60,14.58,593,324028.33,Late,Yes,2025-01-22
+51,Hansen Group,Gauteng,Construction,11,3335658,7,581089,60,7.89,688,277971.5,Current,No,2024-03-23
+52,"Bolton, Clark and Barrett",KwaZulu-Natal,Construction,9,617313,65,264532,48,8.08,478,51442.75,Current,No,2026-01-24
+53,Young Group,KwaZulu-Natal,Construction,7,494540,108,927699,36,8.23,741,41211.67,Current,No,2024-10-09
+54,Brock-Camacho,Eastern Cape,Transport,19,3785501,61,880914,12,14.67,622,315458.42,Current,No,2024-05-05
+55,Cherry-Pierce,Free State,Hospitality,3,2487312,58,598248,48,17.71,761,207276.0,Current,No,2024-11-16
+56,"Burgess, Salazar and Sanchez",Free State,Manufacturing,13,921052,147,808574,48,5.98,598,76754.33,Current,No,2026-06-24
+57,Riley PLC,Gauteng,Construction,15,2214792,54,102528,36,16.72,463,184566.0,Current,No,2025-09-15
+58,Jackson-Acosta,Eastern Cape,Agriculture,11,2585195,136,336103,24,7.98,605,215432.92,Current,No,2024-03-30
+59,Weaver Group,Free State,Transport,5,891267,141,594447,36,15.69,594,74272.25,Current,No,2025-07-11
+60,"Holt, Brown and Brown",North West,Hospitality,18,2777618,109,623695,60,5.34,646,231468.17,Late,No,2024-10-15
+61,Brock-Tyler,Gauteng,Manufacturing,1,1210389,85,77712,24,9.95,595,100865.75,Paid Off,No,2024-03-28
+62,"Cherry, Campbell and Smith",Gauteng,Construction,17,1981548,55,201456,48,15.57,547,165129.0,Current,No,2026-07-10
+63,Thomas-Thomas,KwaZulu-Natal,Retail,5,2432517,85,392786,12,6.68,472,202709.75,Late,No,2025-01-18
+64,Long-Carroll,North West,Technology,19,3131756,118,893523,36,11.76,818,260979.67,Late,Yes,2024-07-20
+65,Sheppard PLC,Northern Cape,Retail,12,4934357,112,910395,60,13.06,838,411196.42,Current,No,2025-11-02
+66,"Peters, Davis and Mendoza",Western Cape,Hospitality,2,1634026,50,365826,24,13.28,552,136168.83,Current,No,2025-10-27
+67,"Camacho, Thompson and Barr",Limpopo,Agriculture,15,2673619,51,406600,12,17.34,615,222801.58,Current,No,2025-07-31
+68,"Valencia, Wilkins and Wright",Free State,Agriculture,4,1656617,6,367623,60,9.52,779,138051.42,Late,Yes,2023-10-08
+69,Ramirez Ltd,Mpumalanga,Transport,11,761614,104,984648,48,9.49,600,63467.83,Current,No,2026-02-19
+70,Payne-Boyd,KwaZulu-Natal,Construction,3,2050367,5,912129,24,8.62,510,170863.92,Current,No,2026-09-24
+71,Gutierrez Group,Northern Cape,Agriculture,6,2345131,47,199849,12,13.94,495,195427.58,Current,No,2025-01-11
+72,Bell-Brown,Eastern Cape,Retail,11,4182494,8,430975,12,12.76,510,348541.17,Current,No,2023-12-22
+73,Collins-Smith,North West,Agriculture,15,1017559,109,685605,24,5.48,463,84796.58,Late,Yes,2024-05-24
+74,Norman-Bowman,Western Cape,Agriculture,19,2071206,38,710482,36,10.16,560,172600.5,Paid Off,No,2024-06-05
+75,Warren PLC,Limpopo,Hospitality,5,2862779,126,271897,48,8.03,488,238564.92,Current,No,2025-12-11
+76,Lambert-Smith,Eastern Cape,Technology,13,567010,34,656440,12,12.34,558,47250.83,Current,No,2026-08-24
+77,"Lee, Webster and Downs",Western Cape,Manufacturing,10,2560072,59,241076,60,9.29,455,213339.33,Paid Off,No,2024-03-01
+78,Ortiz-Green,Eastern Cape,Hospitality,1,1044789,75,166421,12,6.04,519,87065.75,Current,No,2025-11-17
+79,"Lara, Miller and Holloway",Mpumalanga,Agriculture,19,2953406,75,840756,48,5.07,485,246117.17,Paid Off,No,2025-06-01
+80,Lloyd Inc,North West,Agriculture,17,2309373,44,849666,60,7.43,511,192447.75,Paid Off,No,2025-08-24
+81,Green PLC,Gauteng,Agriculture,4,1337715,142,230448,60,11.58,469,111476.25,Current,No,2023-10-15
+82,"Morgan, Cooley and Wall",Western Cape,Agriculture,4,1516012,5,559930,24,17.87,708,126334.33,Current,No,2026-05-02
+83,Bolton PLC,Free State,Retail,13,4299591,17,307665,12,12.74,533,358299.25,Current,No,2024-04-11
+84,"Williams, Allen and Byrd",Free State,Manufacturing,6,4902116,137,277645,24,7.36,685,408509.67,Current,No,2024-03-29
+85,Kim-Campbell,North West,Manufacturing,3,2969760,105,710775,60,7.62,769,247480.0,Current,No,2025-08-19
+86,"Larson, Chambers and Barnes",Eastern Cape,Retail,3,973172,42,589812,12,13.88,454,81097.67,Current,No,2025-07-05
+87,Stevens-Franklin,Gauteng,Retail,8,3930375,145,89711,12,10.09,628,327531.25,Late,No,2024-10-20
+88,Adams-Houston,Limpopo,Manufacturing,2,2608749,134,964228,36,13.16,553,217395.75,Current,No,2025-01-20
+89,Ashley-Roberts,Gauteng,Transport,8,1638601,38,530703,12,9.05,464,136550.08,Paid Off,No,2024-09-16
+90,Graham Inc,Free State,Manufacturing,5,2461632,74,415821,12,6.34,645,205136.0,Current,No,2025-06-18
+91,"Olson, Colon and Moore",North West,Construction,13,3317635,47,965308,48,14.39,665,276469.58,Late,No,2024-03-04
+92,"Lara, Barker and Curry",Free State,Transport,2,2180154,11,197550,24,9.45,564,181679.5,Late,No,2025-01-25
+93,Kent-Solomon,North West,Hospitality,6,2079079,111,105318,48,12.71,752,173256.58,Current,No,2024-12-04
+94,"Long, Larson and Rice",Gauteng,Transport,12,3020803,31,261951,24,5.9,773,251733.58,Late,Yes,2026-06-29
+95,Rodriguez-Davis,Limpopo,Retail,19,598716,46,225399,60,17.8,746,49893.0,Paid Off,No,2024-01-27
+96,Phillips-Ellis,Mpumalanga,Technology,14,3424323,115,698373,60,9.93,762,285360.25,Current,No,2026-07-03
+97,"Shaw, Schmidt and Wagner",Northern Cape,Manufacturing,9,2254697,63,561411,48,11.99,762,187891.42,Current,No,2026-02-12
+98,Joyce-Clayton,Western Cape,Manufacturing,11,4761029,17,713937,36,5.43,840,396752.42,Current,No,2024-12-31
+99,"Torres, Hudson and Ortega",Mpumalanga,Construction,19,871253,88,554471,12,9.71,474,72604.42,Current,No,2024-06-10
+100,Johnson Inc,Eastern Cape,Hospitality,11,1395302,86,906912,48,11.96,533,116275.17,Current,No,2024-05-28
+101,Marsh-Jones,Limpopo,Manufacturing,8,1138896,123,201878,36,9.54,706,94908.0,Current,No,2025-09-16
+102,Simmons Inc,Western Cape,Retail,17,3419260,78,664685,36,10.89,593,284938.33,Current,No,2024-04-18
+103,Young-Franklin,Eastern Cape,Retail,2,2759440,8,601025,60,5.98,671,229953.33,Current,No,2024-01-26
+104,Rodriguez-Huff,Gauteng,Technology,3,1227199,55,415321,48,15.92,815,102266.58,Current,No,2026-06-13
+105,Massey and Sons,KwaZulu-Natal,Technology,7,3195900,72,159575,12,15.4,770,266325.0,Current,No,2024-01-15
+106,Cardenas-Vazquez,Western Cape,Manufacturing,3,3285714,96,729520,36,17.51,541,273809.5,Current,No,2026-06-02
+107,Ayala-Chambers,Western Cape,Technology,5,2062165,74,695588,12,7.7,847,171847.08,Current,No,2025-06-12
+108,Lawson-Bryant,Free State,Transport,19,4439235,11,493676,24,15.73,637,369936.25,Late,No,2024-12-13
+109,Brown-Lindsey,Free State,Hospitality,3,2037878,137,257990,24,16.19,845,169823.17,Paid Off,No,2026-01-21
+110,Boyd LLC,North West,Manufacturing,3,2083851,128,997479,12,11.3,530,173654.25,Paid Off,No,2025-01-12
+111,Thomas-Kirk,Northern Cape,Hospitality,17,4821165,22,609655,36,10.48,686,401763.75,Current,No,2024-04-15
+112,Klein-Martinez,Free State,Agriculture,13,3634550,100,386676,12,8.56,524,302879.17,Paid Off,No,2025-04-04
+113,"Hawkins, Adkins and Haas",Mpumalanga,Construction,17,4185412,27,278504,12,8.46,827,348784.33,Late,Yes,2025-01-28
+114,Galloway LLC,Gauteng,Agriculture,8,3238145,122,801883,24,7.16,686,269845.42,Late,Yes,2025-10-07
+115,Hamilton and Sons,Free State,Manufacturing,11,3437920,40,200322,36,9.62,630,286493.33,Late,Yes,2026-06-19
+116,Walsh LLC,Western Cape,Technology,17,3663706,111,61046,60,11.29,681,305308.83,Current,No,2025-05-09
+117,Clark-Smith,Gauteng,Hospitality,4,3451278,109,294883,36,9.35,676,287606.5,Paid Off,No,2026-08-25
+118,Murray Inc,Gauteng,Retail,2,4951188,61,674712,36,12.78,650,412599.0,Current,No,2024-12-20
+119,Aguilar PLC,KwaZulu-Natal,Hospitality,7,3290914,102,602433,24,6.34,678,274242.83,Current,No,2026-06-28
+120,Taylor LLC,Northern Cape,Technology,5,3491418,47,381770,48,12.04,754,290951.5,Current,No,2025-05-28
+121,"Mitchell, Allen and Walker",Mpumalanga,Retail,19,1291902,89,757220,48,7.88,530,107658.5,Late,No,2026-01-31
+122,Harris PLC,Limpopo,Agriculture,9,3106316,86,566142,24,9.07,737,258859.67,Late,No,2026-05-22
+123,Watts Inc,North West,Agriculture,15,764180,59,336214,60,11.16,586,63681.67,Current,No,2024-12-05
+124,"Smith, Peters and Day",North West,Manufacturing,7,381570,108,87265,48,11.25,552,31797.5,Current,No,2024-12-25
+125,Schultz Ltd,Limpopo,Technology,3,4293060,120,184055,12,12.0,632,357755.0,Current,No,2026-05-17
+126,Lindsey Inc,Western Cape,Technology,13,3928433,34,688112,36,16.37,465,327369.42,Current,No,2026-02-20
+127,Schmitt-Martinez,Eastern Cape,Construction,13,4177151,62,905778,60,11.24,828,348095.92,Paid Off,No,2026-07-16
+128,"Butler, Floyd and Webb",Northern Cape,Technology,16,2806871,103,920123,48,14.59,688,233905.92,Current,No,2024-07-05
+129,Salinas Group,Western Cape,Transport,17,4820642,146,159996,60,5.55,591,401720.17,Current,No,2024-04-29
+130,Mitchell Inc,Northern Cape,Transport,1,885332,140,795453,36,17.35,522,73777.67,Current,No,2025-05-23
+131,Shannon-Branch,North West,Manufacturing,5,2950171,62,480789,60,17.86,744,245847.58,Paid Off,No,2025-09-16
+132,Leonard-Hunt,Mpumalanga,Construction,7,4112595,110,243283,24,5.61,508,342716.25,Current,No,2024-12-05
+133,Brewer Ltd,Free State,Hospitality,9,3928464,47,236626,12,11.74,825,327372.0,Current,No,2024-05-02
+134,"Jackson, Pollard and Owens",Gauteng,Manufacturing,17,388316,13,57657,60,11.98,627,32359.67,Current,No,2024-03-11
+135,Griffith PLC,Northern Cape,Manufacturing,9,1775843,123,84701,48,11.2,806,147986.92,Current,No,2026-08-16
+136,"Perry, Brown and Payne",North West,Retail,3,2562616,5,663089,36,6.13,781,213551.33,Current,No,2025-07-23
+137,Johnson PLC,Mpumalanga,Construction,15,1825690,60,185044,60,16.63,625,152140.83,Current,No,2025-07-16
+138,"Ponce, Pham and Zimmerman",KwaZulu-Natal,Agriculture,13,4266769,67,175991,24,12.07,750,355564.08,Current,No,2024-01-30
+139,Jackson LLC,Northern Cape,Construction,13,2466610,107,69623,60,14.07,541,205550.83,Paid Off,No,2025-07-02
+140,Pham-Reed,Northern Cape,Manufacturing,10,1669123,31,922638,24,6.68,604,139093.58,Late,Yes,2025-11-12
+141,Cummings Inc,Eastern Cape,Agriculture,11,570452,77,479725,60,8.36,488,47537.67,Current,No,2026-09-09
+142,Williams Ltd,North West,Technology,2,588972,98,125418,48,5.12,562,49081.0,Current,No,2025-10-20
+143,Williams-Willis,Limpopo,Agriculture,13,2455874,63,182079,48,13.22,775,204656.17,Current,No,2025-12-27
+144,"Alvarez, Hardy and Lynch",Gauteng,Transport,5,4168316,145,981011,24,11.16,801,347359.67,Late,No,2024-07-13
+145,Sanchez Inc,KwaZulu-Natal,Transport,18,2002897,125,729181,48,5.32,641,166908.08,Late,No,2025-01-15
+146,"Collins, Peterson and Guzman",Western Cape,Hospitality,11,3277326,29,555934,48,10.54,507,273110.5,Current,No,2026-07-20
+147,Cervantes and Sons,Eastern Cape,Agriculture,13,3081352,84,263030,36,8.55,720,256779.33,Late,No,2025-12-19
+148,White-Casey,Free State,Manufacturing,17,1586205,84,818747,36,8.56,541,132183.75,Late,No,2024-05-09
+149,Jacobs-Garcia,KwaZulu-Natal,Retail,3,4957088,25,849289,48,12.32,829,413090.67,Late,No,2024-07-10
+150,"Bradley, Lewis and Robbins",Northern Cape,Retail,12,2477935,93,135530,60,7.0,521,206494.58,Current,No,2024-11-05
+151,Young-Nguyen,Free State,Transport,14,4642001,122,211779,36,7.41,648,386833.42,Late,Yes,2025-03-06
+152,Johnson LLC,Eastern Cape,Transport,15,4625208,9,97837,12,7.09,655,385434.0,Current,No,2026-08-09
+153,Patton LLC,Gauteng,Construction,2,3038199,18,656791,24,11.24,844,253183.25,Paid Off,No,2026-07-06
+154,Arnold-Summers,Northern Cape,Manufacturing,6,2878655,88,56154,12,8.15,750,239887.92,Late,No,2025-05-31
+155,"Hansen, Sampson and Carroll",North West,Agriculture,14,3490926,97,517535,24,11.95,759,290910.5,Late,No,2025-06-24
+156,Duke Inc,Limpopo,Agriculture,9,4470380,103,269724,24,13.96,565,372531.67,Current,No,2026-06-30
+157,"Walker, Jones and Obrien",Gauteng,Manufacturing,18,4945710,61,905009,36,16.65,555,412142.5,Current,No,2025-08-14
+158,Foster and Sons,North West,Agriculture,9,2957733,92,692120,48,9.41,808,246477.75,Late,Yes,2023-11-27
+159,Matthews-Miller,Mpumalanga,Agriculture,7,2951274,127,227235,36,5.53,657,245939.5,Current,No,2025-05-18
+160,Scott PLC,Northern Cape,Construction,10,4855469,122,423706,36,17.69,461,404622.42,Current,No,2025-04-29
+161,"Holt, Perez and Hamilton",KwaZulu-Natal,Transport,4,694604,82,78380,24,13.49,568,57883.67,Current,No,2025-09-23
+162,Cantu-Martinez,KwaZulu-Natal,Construction,5,1131519,93,839352,12,15.93,508,94293.25,Late,Yes,2025-04-03
+163,Williams and Sons,North West,Transport,17,4760061,37,424484,48,14.56,608,396671.75,Current,No,2025-03-02
+164,Freeman-Kelly,Free State,Agriculture,18,1491538,66,316847,24,15.31,554,124294.83,Current,No,2025-11-25
+165,Thompson PLC,KwaZulu-Natal,Construction,7,2477074,18,750601,60,14.53,695,206422.83,Current,No,2026-06-15
+166,Johnson Inc,Limpopo,Agriculture,3,2718137,14,69975,24,7.35,549,226511.42,Paid Off,No,2024-07-29
+167,"Whitaker, Benson and Vaughn",North West,Technology,5,3421765,84,438076,24,6.24,490,285147.08,Current,No,2025-02-23
+168,"Welch, Salazar and Barker",Free State,Construction,17,2060826,45,635560,36,16.49,477,171735.5,Current,No,2025-04-09
+169,"Ruiz, Dominguez and Robinson",Free State,Transport,14,3584239,8,252332,36,17.33,715,298686.58,Late,Yes,2024-12-24
+170,"Bird, Stevens and Foster",Gauteng,Transport,11,417348,56,232958,48,16.23,653,34779.0,Current,No,2024-04-27
+171,"Warner, Meyer and Mcgee",Northern Cape,Technology,6,3377419,37,526410,48,5.67,819,281451.58,Paid Off,No,2026-03-18
+172,"Singleton, Stevens and Hayes",Free State,Retail,1,4464406,12,444274,24,10.17,647,372033.83,Current,No,2024-06-10
+173,Beck Ltd,Northern Cape,Agriculture,18,1280887,29,809034,12,12.54,748,106740.58,Current,No,2025-10-14
+174,"Martinez, Turner and Mcgrath",Eastern Cape,Agriculture,15,1155146,124,380929,24,7.45,743,96262.17,Current,No,2025-06-17
+175,Lewis Ltd,Western Cape,Retail,8,1778687,55,850101,24,9.87,454,148223.92,Paid Off,No,2026-08-17
+176,Lee-Martinez,North West,Retail,18,128625,76,786400,36,17.1,475,10718.75,Paid Off,No,2025-03-09
+177,"Hall, Dixon and Nixon",Free State,Construction,14,3145315,105,151376,24,9.53,596,262109.58,Paid Off,No,2023-10-21
+178,Hicks Inc,Northern Cape,Construction,2,2727144,77,778744,12,6.42,538,227262.0,Paid Off,No,2023-12-10
+179,Keller-Powers,Western Cape,Agriculture,2,3799181,141,641491,12,9.12,551,316598.42,Current,No,2026-07-11
+180,Kerr-Elliott,Gauteng,Transport,13,2987296,143,444583,60,9.95,759,248941.33,Late,Yes,2025-02-15
+181,Hatfield-Cherry,KwaZulu-Natal,Hospitality,1,3385727,74,930112,24,11.03,740,282143.92,Current,No,2025-06-03
+182,Austin and Sons,Free State,Construction,3,325049,12,318615,60,10.18,753,27087.42,Paid Off,No,2025-02-19
+183,"Rodriguez, Gonzalez and Shields",Limpopo,Hospitality,5,1815499,46,621107,24,14.3,720,151291.58,Current,No,2024-02-21
+184,Sims-Barnes,Free State,Transport,11,2910860,143,598884,12,13.51,556,242571.67,Current,No,2025-04-23
+185,Carlson and Sons,Eastern Cape,Construction,19,3717556,52,820188,36,17.08,724,309796.33,Current,No,2026-06-18
+186,Sullivan-Cooper,Gauteng,Construction,3,3767591,132,171999,24,6.58,555,313965.92,Late,No,2026-08-28
+187,"Salazar, Bailey and Harrison",Limpopo,Technology,11,854950,56,950446,12,12.38,557,71245.83,Current,No,2025-06-22
+188,Johnson and Sons,Gauteng,Transport,10,255683,120,956323,60,13.23,823,21306.92,Paid Off,No,2025-01-14
+189,"Adams, Williams and Klein",Northern Cape,Agriculture,13,311830,9,246501,24,7.27,567,25985.83,Current,No,2024-02-19
+190,Davis PLC,Free State,Transport,10,1875767,50,693791,36,16.07,498,156313.92,Current,No,2025-08-09
+191,"Davis, Escobar and Caldwell",Limpopo,Agriculture,7,4121080,69,377825,12,14.58,613,343423.33,Current,No,2024-10-29
+192,"Carroll, Jones and Black",Free State,Technology,2,1112384,11,853446,24,8.34,598,92698.67,Current,No,2024-08-25
+193,"Simmons, Parrish and Brown",KwaZulu-Natal,Technology,13,3219612,85,501000,24,10.26,703,268301.0,Current,No,2026-07-26
+194,Murray Ltd,KwaZulu-Natal,Transport,7,4523408,102,892186,24,16.77,729,376950.67,Current,No,2025-12-10
+195,Matthews-Mcclain,North West,Retail,13,3358084,123,685232,12,13.02,613,279840.33,Current,No,2026-06-27
+196,"Berg, White and Doyle",KwaZulu-Natal,Hospitality,13,4177716,44,699991,60,10.94,679,348143.0,Current,No,2026-07-28
+197,Foster-Benson,Mpumalanga,Transport,6,880641,36,321830,60,7.28,735,73386.75,Current,No,2026-08-17
+198,Smith LLC,Northern Cape,Technology,15,2488278,144,836639,48,9.52,555,207356.5,Current,No,2024-05-01
+199,Morris Ltd,Limpopo,Transport,12,3396903,115,220963,60,14.58,452,283075.25,Paid Off,No,2025-01-24
+200,Mcintyre Ltd,Mpumalanga,Agriculture,12,1115416,32,787565,12,12.91,598,92951.33,Current,No,2026-05-23
+201,"Fleming, Allen and Mendoza",Eastern Cape,Retail,12,3441861,114,584003,60,9.68,675,286821.75,Current,No,2024-04-08
+202,Lopez Inc,Limpopo,Agriculture,2,3424664,55,442136,36,15.22,780,285388.67,Paid Off,No,2025-01-14
+203,Walker-Nunez,Gauteng,Agriculture,15,826331,82,507828,60,9.95,693,68860.92,Current,No,2026-07-17
+204,"Wright, Chan and Mckenzie",Northern Cape,Technology,10,3833149,149,123861,36,7.26,516,319429.08,Late,Yes,2023-12-21
+205,Lane Inc,Northern Cape,Agriculture,2,4215362,25,704801,60,16.21,655,351280.17,Paid Off,No,2026-06-18
+206,Hunter-Patterson,Eastern Cape,Manufacturing,4,3974910,134,55901,12,13.66,770,331242.5,Late,No,2025-07-10
+207,Dawson LLC,Eastern Cape,Agriculture,2,1909377,60,67347,60,5.23,474,159114.75,Current,No,2025-06-10
+208,Long-Ruiz,Western Cape,Construction,2,3547794,56,617201,12,10.59,715,295649.5,Current,No,2025-03-20
+209,Castro-Patel,KwaZulu-Natal,Technology,9,1865524,80,252056,48,13.03,605,155460.33,Current,No,2025-03-29
+210,"Stein, Curry and Wilson",Eastern Cape,Construction,4,2690310,52,629111,48,11.85,722,224192.5,Current,No,2024-04-29
+211,"Rodriguez, Jones and Johnson",KwaZulu-Natal,Technology,7,4729988,92,606659,60,10.03,640,394165.67,Current,No,2024-05-01
+212,"Davis, Henderson and Anderson",Mpumalanga,Hospitality,5,2390870,79,644305,60,14.88,511,199239.17,Current,No,2024-05-12
+213,Johnson-Gentry,Free State,Construction,7,1638112,82,110428,60,17.47,662,136509.33,Paid Off,No,2024-01-27
+214,"Lee, Reynolds and Briggs",Limpopo,Construction,4,1452144,26,552754,48,16.24,637,121012.0,Late,No,2026-04-18
+215,Lopez Group,Eastern Cape,Construction,16,4519323,42,476577,60,17.43,681,376610.25,Paid Off,No,2024-06-02
+216,Flores Ltd,Western Cape,Transport,17,1201928,48,474127,60,8.63,466,100160.67,Late,No,2025-09-05
+217,Fisher Ltd,Limpopo,Agriculture,18,4847263,8,697099,36,10.85,681,403938.58,Current,No,2024-11-02
+218,"Rodriguez, Flores and Frey",KwaZulu-Natal,Construction,17,2901742,87,57099,60,5.62,792,241811.83,Current,No,2025-02-12
+219,"Mosley, Morton and Gonzalez",KwaZulu-Natal,Retail,8,3568792,133,537510,48,14.59,492,297399.33,Late,No,2024-02-12
+220,"Hayden, Nolan and Gonzalez",KwaZulu-Natal,Transport,14,503082,51,251139,36,10.36,848,41923.5,Paid Off,No,2024-10-02
+221,"Smith, Downs and Patel",Mpumalanga,Technology,5,729085,112,961349,48,16.69,801,60757.08,Current,No,2023-10-20
+222,"Porter, Todd and Adams",Eastern Cape,Hospitality,8,4739681,105,539934,12,17.48,498,394973.42,Current,No,2026-02-04
+223,Bernard-Cook,Mpumalanga,Construction,18,1103171,95,468443,48,7.04,796,91930.92,Paid Off,No,2024-12-08
+224,Cooper-Daniel,North West,Manufacturing,10,1718702,78,961632,48,10.05,632,143225.17,Current,No,2024-08-04
+225,"Hamilton, Young and Day",Gauteng,Construction,18,1619603,122,969965,12,8.36,662,134966.92,Late,No,2024-11-10
+226,Guerra-Hart,North West,Hospitality,15,1336497,104,412644,48,5.7,846,111374.75,Current,No,2025-10-10
+227,Harding-Lane,Free State,Technology,11,2220539,27,930412,24,7.78,718,185044.92,Current,No,2024-09-20
+228,Mann-Jenkins,Gauteng,Manufacturing,19,1326134,118,594855,36,6.97,493,110511.17,Late,No,2024-07-22
+229,"Cooper, Davis and Evans",North West,Retail,7,4398859,108,311486,60,16.46,730,366571.58,Late,Yes,2026-04-21
+230,"Harrell, White and Gray",Northern Cape,Agriculture,4,2653314,149,596015,36,7.44,769,221109.5,Paid Off,No,2025-11-07
+231,Kennedy PLC,Mpumalanga,Agriculture,9,1216271,90,481116,24,5.46,842,101355.92,Current,No,2025-09-23
+232,Turner PLC,Limpopo,Hospitality,17,4576321,56,614660,36,17.95,826,381360.08,Late,No,2026-01-08
+233,Cunningham Inc,KwaZulu-Natal,Agriculture,4,2721038,37,583884,60,5.02,581,226753.17,Late,No,2025-11-25
+234,Grimes Inc,Eastern Cape,Retail,7,2027205,119,638717,48,11.63,709,168933.75,Current,No,2025-09-09
+235,Evans-Jimenez,Eastern Cape,Transport,3,1820023,120,623156,24,12.79,785,151668.58,Current,No,2023-11-02
+236,"Montgomery, Barber and Porter",North West,Construction,19,1343294,76,471947,24,14.2,754,111941.17,Late,Yes,2026-08-12
+237,Lopez PLC,Limpopo,Retail,4,3387058,146,107775,48,5.81,622,282254.83,Current,No,2025-12-16
+238,"Hayes, Moore and Smith",Eastern Cape,Transport,15,1391210,47,983688,36,13.92,567,115934.17,Late,No,2025-11-13
+239,Love-Potts,Free State,Retail,15,4935451,61,238490,24,9.35,808,411287.58,Current,No,2024-09-03
+240,Jones Inc,Mpumalanga,Retail,13,4537610,109,143808,36,17.23,799,378134.17,Paid Off,No,2024-12-06
+241,"Cox, Holden and Stephens",Free State,Transport,10,4102713,49,787266,60,10.96,518,341892.75,Paid Off,No,2025-08-02
+242,Arnold-Parker,Limpopo,Technology,5,4141059,129,819605,12,5.09,539,345088.25,Current,No,2025-06-20
+243,"Bryant, Martin and Clark",Northern Cape,Technology,9,3128149,84,591357,12,17.44,765,260679.08,Current,No,2025-07-01
+244,"White, Brown and Jones",Limpopo,Transport,12,4124733,14,714917,24,8.54,669,343727.75,Current,No,2024-02-26
+245,Parks Ltd,Eastern Cape,Manufacturing,10,4564344,84,476188,24,16.78,519,380362.0,Current,No,2025-03-11
+246,Castro and Sons,Western Cape,Manufacturing,4,3262801,148,938736,60,5.68,456,271900.08,Current,No,2025-05-05
+247,Brady-Powell,Western Cape,Construction,12,2692631,131,685775,24,7.49,591,224385.92,Late,No,2024-07-13
+248,Myers-Carroll,Northern Cape,Construction,17,4574770,117,500930,48,10.43,794,381230.83,Paid Off,No,2024-01-08
+249,Black Inc,Western Cape,Transport,7,788725,43,855878,12,15.29,738,65727.08,Current,No,2024-04-28
+250,Gonzales-Mercer,Free State,Construction,17,2545840,2,510385,12,13.7,647,212153.33,Paid Off,No,2026-06-05
+251,Gardner Ltd,North West,Hospitality,2,2929455,59,670399,24,17.71,574,244121.25,Late,Yes,2024-03-27
+252,Coleman PLC,Eastern Cape,Agriculture,19,4918750,127,847232,48,14.84,481,409895.83,Current,No,2024-06-02
+253,"Boyd, Frederick and Harper",Northern Cape,Agriculture,15,3866484,28,932766,24,12.25,663,322207.0,Current,No,2023-11-16
+254,Carey PLC,Gauteng,Agriculture,2,3327544,6,727623,48,10.87,703,277295.33,Current,No,2025-09-01
+255,Sanchez-Gross,North West,Transport,18,1050162,41,712212,48,8.59,756,87513.5,Current,No,2025-09-28
+256,Tucker-Harvey,North West,Agriculture,8,4563158,42,464600,48,14.05,496,380263.17,Current,No,2024-08-06
+257,"Chapman, Parker and Waters",KwaZulu-Natal,Manufacturing,12,180257,114,527958,36,17.79,785,15021.42,Paid Off,No,2026-04-23
+258,Taylor-Mclaughlin,Free State,Transport,1,2060155,110,528336,36,16.47,457,171679.58,Paid Off,No,2024-12-24
+259,"Davis, Hutchinson and Dunlap",Free State,Construction,12,1516207,13,628688,24,7.16,512,126350.58,Current,No,2025-02-17
+260,Cortez-Stewart,Eastern Cape,Retail,6,632726,148,856527,24,7.73,732,52727.17,Late,Yes,2024-11-06
+261,Stevens-Johnson,Western Cape,Hospitality,5,3540866,60,720396,48,17.84,714,295072.17,Paid Off,No,2024-04-29
+262,Alvarado-Howard,Mpumalanga,Manufacturing,2,1306123,76,462104,48,11.83,662,108843.58,Current,No,2024-03-10
+263,Sanchez-Ingram,Gauteng,Construction,16,4723636,34,695275,12,14.62,697,393636.33,Current,No,2026-07-11
+264,"Rivera, Mccormick and Cooper",Free State,Transport,18,3447769,139,83866,36,13.24,728,287314.08,Late,Yes,2026-03-13
+265,Gonzalez Group,Limpopo,Hospitality,16,3857985,148,706449,48,17.89,697,321498.75,Current,No,2025-01-26
+266,"Stuart, Stewart and Miller",Free State,Manufacturing,3,3498147,57,804105,60,10.31,752,291512.25,Current,No,2024-09-11
+267,Harris Group,Western Cape,Manufacturing,14,575595,134,467168,36,5.0,488,47966.25,Paid Off,No,2023-11-29
+268,"Meyer, Ochoa and Chavez",North West,Hospitality,2,2662605,35,707957,36,17.7,591,221883.75,Paid Off,No,2024-09-22
+269,"Phillips, Frye and Jones",North West,Hospitality,14,2481306,102,845219,12,8.8,818,206775.5,Current,No,2024-06-13
+270,Cameron Inc,Limpopo,Hospitality,19,339017,63,464994,12,8.96,650,28251.42,Paid Off,No,2025-03-31
+271,"Jackson, Lewis and Torres",North West,Retail,19,2777747,30,185565,12,5.16,569,231478.92,Late,No,2026-04-21
+272,Morales and Sons,Northern Cape,Transport,14,3111786,68,145028,48,16.08,676,259315.5,Current,No,2026-08-06
+273,Huff-Sanders,Limpopo,Construction,9,1516828,62,926141,12,8.71,535,126402.33,Paid Off,No,2026-08-09
+274,"Rodriguez, Phillips and Watts",Free State,Construction,12,3431106,48,902746,48,7.86,513,285925.5,Late,No,2024-12-30
+275,Holt Ltd,North West,Retail,12,560796,8,450584,60,14.03,842,46733.0,Late,No,2024-05-13
+276,Wilson-Mejia,Northern Cape,Manufacturing,8,2420715,26,187653,48,10.76,525,201726.25,Current,No,2024-01-11
+277,"Nolan, Silva and Jackson",KwaZulu-Natal,Transport,8,3719348,55,926338,48,6.35,487,309945.67,Current,No,2026-09-20
+278,"White, Moore and Livingston",Limpopo,Retail,12,370914,1,585381,12,5.04,643,30909.5,Current,No,2024-07-26
+279,"Cross, Mills and Williams",Gauteng,Retail,12,2488229,93,709738,60,11.27,585,207352.42,Current,No,2023-12-18
+280,"Alvarez, Grimes and Sloan",Gauteng,Construction,8,4368173,49,841842,12,7.85,686,364014.42,Current,No,2025-12-21
+281,Vasquez-Turner,Free State,Construction,11,849971,62,546507,24,8.82,802,70830.92,Current,No,2025-03-28
+282,Hill-James,Gauteng,Construction,9,2379176,51,186535,36,11.6,486,198264.67,Current,No,2024-10-07
+283,Conley Inc,Gauteng,Transport,9,1694918,19,644316,48,16.47,641,141243.17,Late,No,2023-12-22
+284,Miller Inc,Limpopo,Transport,13,2175915,8,253196,12,13.27,689,181326.25,Current,No,2024-06-14
+285,Ryan-Short,Western Cape,Agriculture,13,4098422,68,184832,12,10.93,624,341535.17,Paid Off,No,2025-07-02
+286,Taylor-Gaines,Eastern Cape,Retail,18,2195588,76,803298,24,9.17,688,182965.67,Current,No,2024-01-07
+287,"Chaney, Anderson and Smith",Western Cape,Manufacturing,9,1472070,118,383569,12,12.96,734,122672.5,Late,Yes,2025-03-18
+288,"Jones, Garcia and Singleton",North West,Agriculture,3,3307796,81,520529,12,10.49,542,275649.67,Current,No,2025-06-08
+289,Sanchez and Sons,Gauteng,Technology,3,1852374,23,270972,12,5.88,806,154364.5,Current,No,2023-10-28
+290,Medina-Berry,Northern Cape,Construction,11,1146161,122,433395,48,7.94,548,95513.42,Current,No,2024-06-15
+291,Bailey-Cabrera,Limpopo,Manufacturing,3,3985250,48,653291,24,9.81,621,332104.17,Paid Off,No,2024-12-15
+292,"Harper, Watkins and Murray",Free State,Technology,4,1801243,56,791280,12,9.5,616,150103.58,Current,No,2025-09-09
+293,Stark Inc,Gauteng,Hospitality,19,345404,64,692249,60,11.9,575,28783.67,Current,No,2024-04-04
+294,"Anderson, Johnson and Owens",Eastern Cape,Retail,16,4805907,109,665863,24,11.31,653,400492.25,Current,No,2024-03-06
+295,Smith Group,Mpumalanga,Manufacturing,3,4939498,51,251260,24,9.07,709,411624.83,Current,No,2025-03-04
+296,Morgan-Moore,Free State,Manufacturing,15,882877,87,758521,48,17.93,571,73573.08,Current,No,2024-10-12
+297,Gonzales-Smith,Eastern Cape,Retail,9,1436092,109,373660,48,17.74,508,119674.33,Paid Off,No,2026-04-25
+298,"Pearson, Thompson and Weaver",Free State,Manufacturing,9,4296656,87,183004,36,9.63,611,358054.67,Current,No,2023-11-19
+299,Rhodes-Reid,Free State,Transport,2,226060,139,237954,48,9.51,699,18838.33,Current,No,2025-09-18
+300,Williams-Smith,KwaZulu-Natal,Construction,3,662060,17,108478,36,16.44,803,55171.67,Current,No,2026-10-03
+301,Torres-Yates,Limpopo,Construction,8,4472216,8,225767,48,16.08,699,372684.67,Current,No,2025-04-12
+302,Watts-Webster,Free State,Agriculture,5,339779,11,928453,60,10.96,596,28314.92,Current,No,2024-07-28
+303,Gillespie-Moreno,Mpumalanga,Retail,11,2223238,115,329003,36,11.67,454,185269.83,Late,Yes,2024-03-04
+304,Escobar-Blankenship,Eastern Cape,Hospitality,12,4332939,75,145071,12,12.32,519,361078.25,Current,No,2023-10-15
+305,"Hill, Gardner and Kelly",Western Cape,Retail,15,1330746,82,243226,48,15.76,641,110895.5,Current,No,2025-03-12
+306,Levine and Sons,North West,Transport,15,4261900,81,758770,12,16.01,497,355158.33,Paid Off,No,2026-03-20
+307,Cooke PLC,Limpopo,Agriculture,8,2901445,22,858258,60,5.4,774,241787.08,Current,No,2025-08-07
+308,"Williams, Banks and Higgins",Western Cape,Retail,3,4936917,35,593625,12,15.31,747,411409.75,Late,No,2025-07-23
+309,Schneider PLC,Limpopo,Manufacturing,3,4566951,65,134761,48,15.84,562,380579.25,Current,No,2024-02-29
+310,"Werner, Williams and Thomas",Northern Cape,Technology,1,2978350,1,170356,48,14.1,590,248195.83,Late,No,2025-03-08
+311,"Dominguez, Hartman and Mitchell",Eastern Cape,Hospitality,8,2946230,102,389208,36,9.53,739,245519.17,Current,No,2025-11-30
+312,Warner-Wilson,KwaZulu-Natal,Manufacturing,3,3831404,102,815612,24,6.0,739,319283.67,Current,No,2025-09-26
+313,"Klein, Zamora and Blanchard",Western Cape,Agriculture,2,287771,13,287199,48,16.22,807,23980.92,Current,No,2025-12-16
+314,Weiss-Campbell,Mpumalanga,Construction,3,3314215,53,198694,12,12.14,569,276184.58,Current,No,2025-04-06
+315,"Sutton, Greene and Eaton",Limpopo,Technology,13,1784532,32,504418,24,12.62,762,148711.0,Late,Yes,2024-09-05
+316,Andrews Group,Eastern Cape,Construction,8,1698099,79,50159,48,6.86,819,141508.25,Current,No,2025-04-27
+317,Lopez PLC,Western Cape,Technology,8,4631211,75,537030,12,14.73,739,385934.25,Current,No,2023-11-05
+318,Morales-Rowe,Mpumalanga,Hospitality,15,678526,87,370752,24,11.07,798,56543.83,Current,No,2025-09-03
+319,Sanchez Group,Northern Cape,Retail,6,3235812,107,130811,36,12.34,826,269651.0,Current,No,2025-10-28
+320,"Watkins, Jones and Schmidt",KwaZulu-Natal,Construction,2,3741771,83,186643,12,9.91,549,311814.25,Paid Off,No,2025-09-25
+321,Sanchez Ltd,Northern Cape,Technology,12,3485744,138,82441,60,14.27,667,290478.67,Current,No,2024-03-27
+322,Hall-Johnson,Northern Cape,Hospitality,13,4805815,21,271035,48,15.16,460,400484.58,Paid Off,No,2025-10-23
+323,"Burns, Rodriguez and Brown",Northern Cape,Manufacturing,12,3001092,47,203077,24,13.25,753,250091.0,Current,No,2026-01-18
+324,"Fernandez, Cervantes and Hebert",Western Cape,Construction,3,2988939,141,890552,48,16.05,829,249078.25,Paid Off,No,2025-10-17
+325,Choi-Ford,North West,Hospitality,16,391464,100,595096,60,14.8,615,32622.0,Current,No,2026-03-06
+326,Campbell-Hopkins,Eastern Cape,Agriculture,13,1730369,3,922328,48,17.67,665,144197.42,Paid Off,No,2024-03-24
+327,"Sherman, Kirby and Martinez",Eastern Cape,Construction,12,2675508,13,329067,12,15.7,759,222959.0,Current,No,2025-03-16
+328,"Valentine, Thomas and Moore",Free State,Hospitality,10,3694804,24,112507,24,5.25,752,307900.33,Paid Off,No,2025-10-05
+329,Jackson PLC,Gauteng,Transport,4,837954,116,860904,60,11.03,836,69829.5,Current,No,2024-08-30
+330,"Shelton, Copeland and Olsen",Gauteng,Transport,4,2853913,27,851625,60,5.99,679,237826.08,Late,No,2024-06-11
+331,Riddle LLC,Limpopo,Construction,15,2311549,33,298552,24,7.9,611,192629.08,Current,No,2023-11-03
+332,Robinson-Wilson,KwaZulu-Natal,Retail,12,4276426,75,761028,12,12.88,584,356368.83,Paid Off,No,2025-02-09
+333,Moore Inc,KwaZulu-Natal,Construction,8,373452,98,290853,24,11.29,508,31121.0,Current,No,2025-12-10
+334,Watkins-Stevens,North West,Retail,15,4922139,119,810278,60,11.9,667,410178.25,Current,No,2025-01-17
+335,"Foley, Brooks and Wheeler",Northern Cape,Retail,18,357354,59,573406,24,7.55,737,29779.5,Current,No,2024-08-19
+336,Patton Ltd,Free State,Transport,10,408617,95,933194,48,13.36,750,34051.42,Current,No,2025-04-01
+337,White LLC,Northern Cape,Technology,1,656718,26,73091,12,17.1,551,54726.5,Current,No,2025-05-26
+338,Cortez and Sons,Mpumalanga,Manufacturing,9,1851498,15,609351,60,17.34,503,154291.5,Current,No,2023-11-22
+339,Porter-Holland,Western Cape,Hospitality,14,389220,46,303317,60,10.96,743,32435.0,Paid Off,No,2024-10-02
+340,"Williams, Middleton and Price",Western Cape,Manufacturing,3,3021989,95,617815,48,13.57,684,251832.42,Late,Yes,2024-10-26
+341,Park-Marshall,Northern Cape,Transport,9,1207810,139,862283,60,10.68,497,100650.83,Current,No,2026-01-05
+342,Ellis and Sons,Eastern Cape,Transport,19,1449590,115,408710,60,16.8,807,120799.17,Late,No,2024-04-02
+343,Little Ltd,Western Cape,Agriculture,2,4590512,8,800186,60,16.1,748,382542.67,Current,No,2024-07-26
+344,Cooper LLC,Western Cape,Hospitality,4,2611910,93,474528,48,5.16,636,217659.17,Paid Off,No,2026-09-16
+345,Mason Inc,Free State,Agriculture,10,239227,104,774479,24,11.69,605,19935.58,Current,No,2025-03-16
+346,"Ross, Myers and Stevens",Eastern Cape,Retail,16,4256004,34,917482,36,11.43,826,354667.0,Current,No,2024-06-28
+347,"Marshall, Williams and Russell",KwaZulu-Natal,Retail,7,2807184,103,864914,36,8.58,566,233932.0,Current,No,2025-12-21
+348,"Smith, Mack and Johnson",Free State,Manufacturing,17,1988529,82,95740,48,16.01,565,165710.75,Current,No,2024-08-09
+349,"Miller, Hill and Chambers",Limpopo,Agriculture,1,901849,59,730089,36,14.77,814,75154.08,Paid Off,No,2026-03-19
+350,Stevens-Bonilla,Northern Cape,Construction,5,3804697,68,141328,60,14.35,727,317058.08,Paid Off,No,2025-12-28
+351,Palmer-Terrell,Limpopo,Technology,19,4710146,71,765339,24,16.6,731,392512.17,Paid Off,No,2024-03-13
+352,Young Ltd,Western Cape,Transport,14,4689699,109,749158,60,8.32,811,390808.25,Paid Off,No,2026-08-21
+353,Miller PLC,Northern Cape,Manufacturing,16,325391,68,263606,24,17.23,495,27115.92,Current,No,2025-06-11
+354,Garcia Inc,Eastern Cape,Agriculture,5,4472352,24,403646,24,15.72,729,372696.0,Paid Off,No,2025-07-20
+355,"Russell, Parker and Rojas",Limpopo,Construction,2,3892824,69,732416,60,14.95,630,324402.0,Current,No,2026-08-18
+356,Terry-Brown,Mpumalanga,Construction,6,2127320,61,813529,48,8.0,617,177276.67,Current,No,2025-10-07
+357,Hughes Group,Eastern Cape,Technology,19,4909045,141,465534,24,8.94,781,409087.08,Current,No,2025-03-23
+358,"Spencer, Curry and Russell",Mpumalanga,Transport,5,3795727,39,604394,60,12.05,655,316310.58,Current,No,2026-04-22
+359,"Kelly, Fleming and Sharp",Western Cape,Technology,8,3785104,9,369759,12,17.38,508,315425.33,Current,No,2024-11-28
+360,"Crane, Lowery and Martin",Mpumalanga,Retail,10,1741232,65,793859,12,7.24,560,145102.67,Late,No,2026-06-11
+361,Meyer Ltd,Gauteng,Technology,17,3629921,122,857015,60,16.2,720,302493.42,Late,No,2025-01-07
+362,"Clayton, Smith and Gonzales",Mpumalanga,Transport,17,1948058,52,640504,60,16.13,522,162338.17,Current,No,2023-11-26
+363,Riley-Calderon,Gauteng,Retail,17,2222827,15,723647,48,15.22,624,185235.58,Current,No,2026-03-13
+364,Harrell Group,North West,Hospitality,4,1976336,58,251554,12,17.61,492,164694.67,Paid Off,No,2026-07-10
+365,Tanner LLC,North West,Manufacturing,4,1761655,27,209034,60,17.5,788,146804.58,Late,No,2023-12-31
+366,Harrison Ltd,Northern Cape,Transport,3,397675,95,758175,48,13.13,828,33139.58,Paid Off,No,2024-01-07
+367,Dixon-Barnes,North West,Technology,2,1475607,119,69477,36,16.06,820,122967.25,Current,No,2025-10-04
+368,Morgan-Martinez,Gauteng,Transport,19,4567890,126,882721,60,8.99,777,380657.5,Current,No,2025-08-06
+369,Salazar-Norris,Free State,Hospitality,12,953392,120,822997,36,9.63,546,79449.33,Current,No,2024-05-10
+370,Escobar and Sons,Limpopo,Transport,18,4937231,33,954680,60,15.2,468,411435.92,Late,Yes,2025-09-29
+371,"Coleman, Stephens and Cruz",Mpumalanga,Construction,7,4208502,148,125277,60,9.23,664,350708.5,Current,No,2024-10-29
+372,Horton Inc,Gauteng,Agriculture,10,2971656,6,669064,24,6.47,841,247638.0,Current,No,2025-05-02
+373,"Green, Mahoney and Vazquez",Limpopo,Manufacturing,9,1655537,131,946473,24,11.72,668,137961.42,Current,No,2023-12-26
+374,Larson-Mcdonald,Mpumalanga,Hospitality,3,4204399,39,416081,36,5.98,573,350366.58,Current,No,2023-12-13
+375,Ray-Morris,Eastern Cape,Manufacturing,6,1885818,111,904568,24,8.48,597,157151.5,Current,No,2026-05-23
+376,Nelson-Torres,Northern Cape,Retail,2,2966069,96,787090,12,11.83,583,247172.42,Current,No,2025-07-08
+377,"Wells, Nichols and Shaffer",Northern Cape,Agriculture,2,3799100,53,90387,36,14.57,514,316591.67,Current,No,2024-10-21
+378,Lewis Inc,Gauteng,Retail,16,3633716,45,411719,48,17.17,727,302809.67,Late,Yes,2025-02-12
+379,Wiggins-Rodriguez,Northern Cape,Construction,9,4547395,46,902050,24,14.61,834,378949.58,Current,No,2025-10-01
+380,Ho Inc,Mpumalanga,Agriculture,6,2008911,85,907253,12,10.64,594,167409.25,Current,No,2024-09-01
+381,Reid PLC,North West,Transport,15,3733795,17,381356,36,13.29,828,311149.58,Late,Yes,2026-08-12
+382,Sanchez-Newton,Limpopo,Technology,10,3964044,47,406007,12,7.79,488,330337.0,Current,No,2025-05-03
+383,"Gutierrez, Schultz and Hill",Western Cape,Manufacturing,5,4280266,62,55039,24,12.76,739,356688.83,Current,No,2023-12-01
+384,"Carter, Pierce and Allen",Western Cape,Hospitality,16,4700145,127,608685,36,11.42,753,391678.75,Current,No,2024-01-23
+385,Cruz-Perez,North West,Manufacturing,13,4666701,73,412441,60,12.6,807,388891.75,Late,No,2024-11-12
+386,"Moore, Beltran and Warner",Free State,Agriculture,7,3599701,58,929140,36,13.29,586,299975.08,Current,No,2025-01-30
+387,Baker-Cooper,Western Cape,Agriculture,6,4993091,63,537025,36,12.78,701,416090.92,Current,No,2024-10-14
+388,Rodriguez and Sons,Mpumalanga,Transport,13,1237411,129,671781,36,10.33,705,103117.58,Current,No,2026-03-16
+389,"Scott, Warner and Fritz",Free State,Retail,18,2565912,92,903605,60,14.71,487,213826.0,Current,No,2026-07-16
+390,"Kent, Walters and Hanson",Free State,Retail,3,1458126,140,375203,48,10.76,532,121510.5,Current,No,2024-01-30
+391,"Jefferson, Jones and Hopkins",Eastern Cape,Retail,10,1807542,55,894052,60,9.25,510,150628.5,Current,No,2024-06-07
+392,Hill-Kim,Gauteng,Retail,10,2132816,61,131257,12,6.01,763,177734.67,Paid Off,No,2026-06-06
+393,Grimes-Chase,Limpopo,Manufacturing,13,2263349,57,543992,12,7.08,567,188612.42,Late,No,2025-06-07
+394,Weeks-Paul,Limpopo,Construction,5,4125942,145,282076,60,14.34,609,343828.5,Late,Yes,2026-09-02
+395,"Jones, Hall and Donaldson",Gauteng,Hospitality,6,1687819,126,225121,36,14.52,543,140651.58,Current,No,2023-10-25
+396,Soto LLC,Northern Cape,Agriculture,19,1825049,28,149977,36,8.19,564,152087.42,Current,No,2026-05-29
+397,Harper LLC,North West,Manufacturing,15,1851797,137,147406,12,10.58,596,154316.42,Current,No,2026-05-09
+398,Gonzalez and Sons,Mpumalanga,Retail,19,4898793,93,808761,60,14.06,803,408232.75,Current,No,2024-04-21
+399,Thomas-Anderson,Free State,Agriculture,7,1233183,49,956071,36,7.66,731,102765.25,Current,No,2025-08-01
+400,Stephens-Phillips,Gauteng,Manufacturing,17,1260294,25,403076,36,11.17,642,105024.5,Current,No,2024-07-12
+401,Kennedy-Novak,Northern Cape,Hospitality,15,3768508,73,86468,12,11.05,731,314042.33,Current,No,2026-02-26
+402,Thompson-Solis,KwaZulu-Natal,Manufacturing,16,1437768,15,862395,36,5.17,567,119814.0,Late,No,2026-08-05
+403,Rodriguez Ltd,Western Cape,Hospitality,14,4855997,6,347016,48,7.36,681,404666.42,Current,No,2025-02-15
+404,"Martinez, Sutton and Wilson",Western Cape,Construction,8,1266670,45,730667,48,17.96,565,105555.83,Late,Yes,2026-06-20
+405,"Rivera, Guerrero and Saunders",North West,Manufacturing,10,3749244,62,470162,48,11.04,788,312437.0,Current,No,2024-03-09
+406,"Williams, Becker and Herrera",Western Cape,Hospitality,11,2159385,49,442670,12,5.07,556,179948.75,Paid Off,No,2025-01-20
+407,Hart and Sons,North West,Retail,2,799895,58,390686,60,11.77,497,66657.92,Current,No,2025-07-27
+408,Jones LLC,KwaZulu-Natal,Transport,7,1946585,29,913731,36,7.21,658,162215.42,Current,No,2026-05-23
+409,Anderson-Adams,Eastern Cape,Agriculture,9,658981,62,158944,24,8.99,849,54915.08,Late,No,2024-05-21
+410,Webb and Sons,Western Cape,Hospitality,13,4748455,138,591287,48,14.69,508,395704.58,Current,No,2024-01-26
+411,Austin-Huffman,KwaZulu-Natal,Agriculture,16,3535088,23,889385,24,17.46,451,294590.67,Current,No,2025-03-13
+412,Higgins-Kelly,KwaZulu-Natal,Hospitality,17,2082847,61,162701,12,11.87,743,173570.58,Current,No,2026-03-12
+413,"Williams, Clarke and Hernandez",Limpopo,Construction,14,1870394,132,429747,48,15.06,840,155866.17,Current,No,2024-11-03
+414,Jones PLC,Mpumalanga,Hospitality,12,1034048,125,983403,60,16.55,841,86170.67,Current,No,2025-04-23
+415,Reeves-Williams,Mpumalanga,Retail,15,3091620,56,724619,36,11.68,569,257635.0,Paid Off,No,2023-12-01
+416,Hoffman Inc,North West,Manufacturing,7,374535,125,152476,36,17.99,679,31211.25,Current,No,2026-07-09
+417,"King, Rojas and Simmons",KwaZulu-Natal,Technology,11,688574,143,386986,60,9.14,510,57381.17,Paid Off,No,2026-01-20
+418,Ryan-Erickson,Mpumalanga,Manufacturing,3,4143763,48,519450,60,8.02,636,345313.58,Paid Off,No,2024-03-06
+419,Lynch-King,Limpopo,Technology,6,3027053,99,476903,36,13.12,563,252254.42,Late,Yes,2023-12-23
+420,Powell PLC,Northern Cape,Transport,10,3846328,48,911756,36,16.29,478,320527.33,Late,No,2025-04-17
+421,Martinez PLC,Free State,Manufacturing,11,1784449,149,515590,48,11.42,477,148704.08,Current,No,2026-02-09
+422,"Jones, Kerr and Potter",Western Cape,Manufacturing,17,1085257,55,102691,24,6.43,615,90438.08,Current,No,2025-08-14
+423,Thompson-Orozco,Northern Cape,Hospitality,11,3467851,83,545236,12,13.27,792,288987.58,Late,No,2025-06-04
+424,Roberts-Pruitt,Gauteng,Construction,4,4573447,142,312091,24,5.25,663,381120.58,Current,No,2024-04-29
+425,Brown-Ramirez,North West,Hospitality,16,1484822,20,253834,36,13.31,492,123735.17,Current,No,2026-06-25
+426,"Gregory, Collins and Sullivan",North West,Transport,13,2313697,43,468596,48,5.41,679,192808.08,Late,Yes,2026-09-03
+427,Campbell-Morrison,Limpopo,Construction,8,1499769,88,448237,12,17.96,658,124980.75,Late,No,2024-09-05
+428,Holden-Tate,Free State,Hospitality,5,3885961,110,263456,48,9.52,688,323830.08,Late,No,2024-02-03
+429,James-Holland,KwaZulu-Natal,Hospitality,12,2538064,11,561760,24,5.92,513,211505.33,Paid Off,No,2023-10-23
+430,"Larsen, Rodgers and Johnson",Mpumalanga,Agriculture,12,741593,52,555633,60,11.89,700,61799.42,Current,No,2025-08-28
+431,Pineda Group,Limpopo,Manufacturing,5,126616,110,796055,60,8.02,745,10551.33,Current,No,2025-12-25
+432,Lester-Swanson,Eastern Cape,Construction,10,2692806,26,553323,48,6.91,498,224400.5,Current,No,2024-06-18
+433,Watson-Lindsey,Western Cape,Technology,6,1822199,119,651982,36,12.32,825,151849.92,Current,No,2026-06-04
+434,Thomas and Sons,KwaZulu-Natal,Transport,5,2766981,112,215129,48,11.34,577,230581.75,Current,No,2026-07-08
+435,Ortega-King,Northern Cape,Technology,17,1561312,106,528454,60,10.44,672,130109.33,Current,No,2024-02-24
+436,"Burnett, Lewis and Alexander",North West,Retail,9,1803820,143,645032,24,9.08,625,150318.33,Current,No,2026-07-12
+437,Spears Inc,Eastern Cape,Agriculture,7,337068,82,880288,60,14.64,481,28089.0,Paid Off,No,2023-11-06
+438,"Robinson, Cruz and Carpenter",Western Cape,Technology,12,3359819,39,167797,48,10.41,660,279984.92,Late,Yes,2025-05-09
+439,Holmes-Frazier,Northern Cape,Transport,8,4853292,90,173728,48,17.61,678,404441.0,Current,No,2024-08-14
+440,"Johnson, Peterson and Smith",Mpumalanga,Transport,8,4736440,53,683676,36,7.84,609,394703.33,Current,No,2025-07-28
+441,Ramirez and Sons,Mpumalanga,Technology,13,1417621,72,167473,12,15.21,657,118135.08,Current,No,2026-09-02
+442,Holland-Brown,Free State,Hospitality,3,972834,52,850511,12,5.33,636,81069.5,Current,No,2026-07-20
+443,Moss-Calhoun,Western Cape,Retail,7,4577310,20,323813,48,14.75,837,381442.5,Current,No,2026-05-14
+444,Conway Group,Limpopo,Hospitality,4,1330796,72,163936,36,8.1,507,110899.67,Current,No,2026-01-24
+445,"James, Fisher and Bailey",Western Cape,Hospitality,13,2573188,145,287723,60,15.0,638,214432.33,Current,No,2025-07-09
+446,Hickman LLC,Free State,Technology,14,4731889,81,282204,36,13.0,620,394324.08,Current,No,2024-01-31
+447,Cook-Galvan,Eastern Cape,Hospitality,9,479593,57,544955,48,17.07,502,39966.08,Current,No,2025-04-24
+448,"Sanders, Holloway and Young",Gauteng,Construction,15,2347680,136,518011,36,7.26,676,195640.0,Late,Yes,2025-02-16
+449,"Russell, Ferrell and Cohen",Limpopo,Manufacturing,1,2954119,95,626553,12,7.74,639,246176.58,Current,No,2025-09-28
+450,"Brown, Davies and Cooke",KwaZulu-Natal,Hospitality,8,2693157,115,750757,36,8.8,551,224429.75,Current,No,2026-07-01
+451,Reynolds-Hawkins,Gauteng,Hospitality,19,3566689,147,665486,48,16.03,553,297224.08,Paid Off,No,2024-03-24
+452,Harris Ltd,Eastern Cape,Agriculture,5,484370,13,278931,48,13.82,663,40364.17,Current,No,2024-07-10
+453,"Smith, Lopez and Allison",KwaZulu-Natal,Hospitality,17,520539,104,559421,36,16.04,532,43378.25,Current,No,2026-07-19
+454,Martin-Griffin,Mpumalanga,Transport,10,2622919,137,830734,48,8.55,657,218576.58,Current,No,2025-07-13
+455,"Floyd, Woodward and Osborne",Mpumalanga,Agriculture,14,4924574,73,278129,24,13.42,516,410381.17,Current,No,2025-02-25
+456,Thompson-Willis,Gauteng,Technology,8,370146,105,381927,60,8.24,454,30845.5,Current,No,2024-12-01
+457,White-Lee,Limpopo,Transport,15,368449,87,803622,12,10.72,800,30704.08,Current,No,2024-01-26
+458,Hall PLC,Eastern Cape,Hospitality,2,4561213,116,201426,60,11.41,827,380101.08,Late,No,2026-05-27
+459,"Nelson, Mcneil and Sullivan",Northern Cape,Agriculture,14,1727059,133,75901,12,5.59,474,143921.58,Current,No,2026-05-14
+460,Parker-Jones,KwaZulu-Natal,Hospitality,12,2583502,104,222502,36,10.34,540,215291.83,Paid Off,No,2023-12-30
+461,"Farley, Gibson and Rodriguez",Free State,Agriculture,10,2775032,55,188419,60,6.54,649,231252.67,Paid Off,No,2024-01-27
+462,"Meyers, Wheeler and Miranda",Western Cape,Retail,13,4798981,104,463532,48,13.02,646,399915.08,Current,No,2025-10-07
+463,Ramirez Inc,North West,Technology,11,4574843,125,744379,48,17.79,781,381236.92,Paid Off,No,2024-08-01
+464,Young Inc,Limpopo,Technology,9,2369798,52,343561,12,14.0,633,197483.17,Current,No,2024-02-26
+465,Reyes Group,Mpumalanga,Agriculture,8,3059470,149,986320,12,5.99,770,254955.83,Current,No,2025-11-07
+466,Castillo-Saunders,Gauteng,Hospitality,3,4225903,90,97111,60,6.1,639,352158.58,Paid Off,No,2024-08-20
+467,"Hamilton, Clark and Ward",North West,Construction,17,4020367,143,902557,60,10.0,711,335030.58,Current,No,2025-11-02
+468,Chung Inc,Free State,Hospitality,17,1675326,58,321604,12,10.47,612,139610.5,Current,No,2025-04-12
+469,"Nelson, Smith and Cole",Western Cape,Agriculture,2,4338340,132,198441,12,17.07,469,361528.33,Current,No,2025-11-25
+470,Harper Ltd,KwaZulu-Natal,Technology,14,491180,81,503510,36,9.61,833,40931.67,Current,No,2024-10-14
+471,"Tucker, Molina and West",Gauteng,Technology,4,3810879,107,685311,24,6.38,493,317573.25,Paid Off,No,2025-01-31
+472,Pennington-Carlson,Free State,Technology,4,4666156,68,766741,36,5.38,763,388846.33,Current,No,2026-07-20
+473,"Reyes, Baker and Johnson",Western Cape,Technology,16,3963741,3,194771,36,8.41,795,330311.75,Current,No,2026-03-07
+474,Bennett-Velasquez,KwaZulu-Natal,Technology,7,2509409,125,889431,12,8.71,520,209117.42,Paid Off,No,2026-08-11
+475,"Pineda, Page and Harmon",Western Cape,Manufacturing,10,1700741,126,239073,60,13.55,819,141728.42,Late,No,2024-10-02
+476,Watkins-Hunt,Limpopo,Hospitality,6,4033817,32,410444,24,15.97,557,336151.42,Current,No,2025-11-10
+477,Marsh and Sons,Mpumalanga,Manufacturing,8,2661913,67,820655,24,5.08,678,221826.08,Paid Off,No,2023-11-01
+478,Brown-Browning,Mpumalanga,Hospitality,17,3980323,35,595726,12,10.2,786,331693.58,Late,Yes,2024-05-17
+479,Baker-Peterson,Limpopo,Hospitality,16,971158,18,304730,12,8.96,700,80929.83,Late,No,2026-03-14
+480,Vaughn Inc,Limpopo,Hospitality,9,1820444,25,135166,48,6.7,518,151703.67,Current,No,2025-09-17
+481,Martin Inc,Northern Cape,Hospitality,16,3733646,58,921448,12,5.68,523,311137.17,Paid Off,No,2025-10-29
+482,Jensen-Nichols,Free State,Construction,3,3909395,135,797567,12,8.01,675,325782.92,Current,No,2026-01-11
+483,Lane-Bishop,Gauteng,Manufacturing,2,3031531,18,228296,36,5.37,747,252627.58,Paid Off,No,2024-08-26
+484,Maldonado-Oliver,Eastern Cape,Technology,16,1669720,130,129211,24,8.58,688,139143.33,Current,No,2024-03-24
+485,Silva PLC,North West,Transport,15,132766,12,868438,60,15.82,640,11063.83,Current,No,2023-10-16
+486,Snyder-Williams,North West,Construction,17,4733662,90,898124,48,10.85,825,394471.83,Current,No,2026-07-02
+487,Phillips PLC,Limpopo,Construction,15,1033476,124,173805,60,10.75,600,86123.0,Current,No,2025-09-13
+488,Alvarado PLC,Free State,Construction,3,169518,27,226355,48,12.12,724,14126.5,Current,No,2026-09-29
+489,"Lester, Hudson and Hill",Eastern Cape,Hospitality,6,3774942,45,53969,36,14.06,673,314578.5,Late,Yes,2024-03-20
+490,Garza-Barnes,Mpumalanga,Transport,13,1930314,111,681613,48,6.59,823,160859.5,Current,No,2024-03-30
+491,Adams-Warner,Eastern Cape,Agriculture,19,1376485,82,556995,60,7.03,688,114707.08,Late,Yes,2025-03-03
+492,Guerra-Miller,Western Cape,Construction,11,4822340,42,600841,12,7.03,773,401861.67,Current,No,2026-04-24
+493,Short and Sons,KwaZulu-Natal,Technology,7,497891,32,550201,24,10.65,608,41490.92,Late,No,2024-01-03
+494,Kelley Ltd,Limpopo,Construction,10,987099,107,402215,12,6.68,722,82258.25,Current,No,2024-08-29
+495,Hale-George,Gauteng,Retail,4,2571321,92,750270,12,13.48,755,214276.75,Current,No,2025-12-30
+496,Weeks Inc,KwaZulu-Natal,Agriculture,10,2023782,40,465105,24,13.76,555,168648.5,Paid Off,No,2026-04-14
+497,Newman LLC,Western Cape,Retail,13,1450850,144,525147,24,12.48,644,120904.17,Late,No,2026-08-27
+498,Johnson-Rogers,North West,Retail,6,3610043,77,164456,12,13.48,545,300836.92,Current,No,2025-08-09
+499,Lester Group,Northern Cape,Agriculture,15,248725,89,541215,24,10.35,686,20727.08,Late,No,2024-05-23
+500,Martin PLC,Eastern Cape,Technology,9,2218219,60,101033,24,10.54,650,184851.58,Late,No,2023-12-14
+501,Dixon Group,Free State,Transport,4,3617847,84,768837,60,5.32,835,301487.25,Late,No,2026-07-27
+502,Scott-Smith,Western Cape,Agriculture,10,242157,76,998068,48,17.89,595,20179.75,Current,No,2026-08-24
+503,Gonzalez-Bennett,Eastern Cape,Transport,14,2535919,18,181004,36,8.3,805,211326.58,Late,Yes,2025-10-02
+504,"Lopez, Richards and Mcbride",Free State,Manufacturing,13,2119450,140,583903,12,13.65,636,176620.83,Paid Off,No,2024-04-02
+505,Maxwell Group,Gauteng,Retail,14,1888220,54,915990,48,13.45,495,157351.67,Current,No,2024-06-23
+506,"Li, Sanders and Williams",Gauteng,Construction,13,1696246,31,820663,36,9.64,705,141353.83,Late,Yes,2024-08-25
+507,"Jenkins, Nelson and Williams",Eastern Cape,Manufacturing,19,1396573,133,119590,12,12.19,737,116381.08,Paid Off,No,2024-06-19
+508,Smith PLC,Limpopo,Retail,2,2480612,87,283979,36,15.79,668,206717.67,Current,No,2026-01-27
+509,"Miles, Leon and Lee",Eastern Cape,Hospitality,11,2770492,127,64389,24,11.19,667,230874.33,Current,No,2024-08-31
+510,Oneill LLC,KwaZulu-Natal,Retail,1,1646064,131,144913,48,6.67,789,137172.0,Late,Yes,2024-09-18
+511,Mccarthy-Cunningham,Limpopo,Transport,12,369515,19,621603,36,13.05,558,30792.92,Current,No,2026-09-29
+512,Curtis-Graves,Free State,Construction,13,1384283,86,758024,36,7.55,535,115356.92,Current,No,2026-08-09
+513,Rodriguez Group,Limpopo,Manufacturing,8,2631113,77,591529,48,15.03,689,219259.42,Current,No,2026-05-08
+514,"Martinez, Baldwin and Williams",Limpopo,Hospitality,19,1757583,11,113014,24,8.84,717,146465.25,Current,No,2023-12-11
+515,Lee LLC,Mpumalanga,Retail,11,2519493,65,134577,36,15.53,724,209957.75,Late,Yes,2026-06-01
+516,Burke-Woodward,Northern Cape,Transport,15,1902502,102,463962,48,9.66,808,158541.83,Current,No,2025-10-27
+517,Knight-Deleon,Mpumalanga,Retail,5,1300847,116,403548,48,10.15,538,108403.92,Paid Off,No,2025-04-17
+518,Waters-Newman,Mpumalanga,Retail,17,1490598,23,402621,24,12.6,571,124216.5,Current,No,2026-03-07
+519,"Andrews, Price and Larson",Gauteng,Transport,15,3905721,14,460520,36,13.56,503,325476.75,Current,No,2024-06-24
+520,Kline-Kirk,North West,Retail,17,3830370,102,390687,24,12.98,687,319197.5,Current,No,2024-01-14
+521,"Riggs, Gonzalez and Rivas",Mpumalanga,Retail,6,1410015,74,61350,24,8.41,666,117501.25,Paid Off,No,2026-05-22
+522,"Pratt, Brown and Evans",Free State,Transport,16,4700549,4,72490,12,13.06,757,391712.42,Current,No,2023-12-22
+523,James Group,KwaZulu-Natal,Construction,4,4173542,36,113965,24,11.89,627,347795.17,Paid Off,No,2024-07-08
+524,"Leonard, Smith and Brooks",KwaZulu-Natal,Technology,11,4283583,31,305821,48,12.99,826,356965.25,Current,No,2026-05-09
+525,Beck Group,Mpumalanga,Manufacturing,7,595919,66,186109,48,16.91,488,49659.92,Current,No,2024-05-06
+526,Howell LLC,Gauteng,Technology,4,1244337,90,425897,24,7.3,630,103694.75,Current,No,2024-07-01
+527,Romero Inc,Free State,Hospitality,6,3978551,33,691621,24,15.53,468,331545.92,Current,No,2025-11-24
+528,"Frey, Robinson and Zamora",Gauteng,Manufacturing,7,526888,117,460869,24,13.37,781,43907.33,Paid Off,No,2024-12-02
+529,"Kelly, Brown and Glover",Mpumalanga,Construction,12,714673,108,461906,36,7.56,584,59556.08,Paid Off,No,2025-01-20
+530,Rodriguez and Sons,Western Cape,Construction,11,825571,22,878282,24,15.74,659,68797.58,Current,No,2024-11-15
+531,Davis Group,Limpopo,Transport,6,417942,119,798728,12,12.43,534,34828.5,Current,No,2024-04-13
+532,Jimenez-Dorsey,Limpopo,Agriculture,13,4366399,15,680212,60,5.16,664,363866.58,Late,Yes,2025-04-19
+533,"Hood, Rocha and Black",KwaZulu-Natal,Hospitality,3,3816434,140,505433,60,17.38,797,318036.17,Current,No,2024-11-02
+534,Schmidt-Hogan,Eastern Cape,Manufacturing,3,4776103,85,201542,36,5.93,571,398008.58,Current,No,2024-03-03
+535,Villarreal-Brown,Free State,Retail,16,1995618,71,495935,24,7.41,458,166301.5,Current,No,2024-09-01
+536,"Bennett, Francis and Arnold",North West,Retail,17,4570756,50,141563,48,17.79,450,380896.33,Current,No,2023-12-05
+537,Harmon Group,Mpumalanga,Technology,14,4324367,25,643741,24,17.06,826,360363.92,Current,No,2026-09-29
+538,Booth Inc,KwaZulu-Natal,Manufacturing,11,290285,111,100971,12,10.4,595,24190.42,Late,Yes,2025-10-26
+539,"Ramirez, White and Reed",KwaZulu-Natal,Agriculture,1,3252963,136,394877,60,8.08,698,271080.25,Current,No,2025-07-27
+540,Sanders Inc,Western Cape,Technology,18,2844686,63,134817,48,5.95,515,237057.17,Current,No,2024-07-21
+541,"Harrison, Sexton and Matthews",Limpopo,Construction,18,3502862,26,412232,60,7.92,652,291905.17,Paid Off,No,2026-10-05
+542,"Robertson, Wilkerson and Anderson",Limpopo,Transport,9,4170101,92,368903,48,12.52,724,347508.42,Current,No,2024-09-12
+543,Mayer Inc,Gauteng,Construction,19,1817787,99,954058,24,13.48,629,151482.25,Paid Off,No,2025-08-25
+544,Rowland-Mccann,Mpumalanga,Transport,8,1799660,46,917965,48,14.49,792,149971.67,Current,No,2025-11-21
+545,"Massey, Moore and Campbell",KwaZulu-Natal,Technology,8,2750196,107,383720,60,12.72,514,229183.0,Current,No,2025-08-11
+546,Howell LLC,Western Cape,Manufacturing,15,4552664,47,409014,36,9.61,796,379388.67,Current,No,2024-06-26
+547,Campbell Ltd,Northern Cape,Construction,18,1588303,109,789667,12,15.35,796,132358.58,Current,No,2025-11-10
+548,Rangel LLC,Eastern Cape,Construction,8,3247887,117,623228,48,12.79,526,270657.25,Current,No,2026-03-23
+549,"Ross, Bentley and Wilson",Mpumalanga,Manufacturing,9,4869729,38,473448,60,9.14,507,405810.75,Current,No,2024-11-01
+550,Rodgers LLC,North West,Manufacturing,2,392007,146,816722,12,9.7,822,32667.25,Current,No,2025-03-24
+551,West Ltd,Western Cape,Retail,13,487773,144,72499,24,13.15,602,40647.75,Current,No,2026-04-12
+552,Mckay-White,Gauteng,Agriculture,19,1467064,147,496991,12,8.49,631,122255.33,Paid Off,No,2024-06-26
+553,White and Sons,Mpumalanga,Construction,12,3378262,122,956641,12,6.06,483,281521.83,Current,No,2023-11-01
+554,"Baker, Ramirez and Leonard",Eastern Cape,Agriculture,7,1884094,88,902969,48,9.68,459,157007.83,Current,No,2025-03-07
+555,Knight-Miller,Eastern Cape,Retail,15,3246243,16,947214,36,12.25,617,270520.25,Late,No,2026-01-27
+556,"Norris, Clark and Haynes",Eastern Cape,Agriculture,5,2069412,109,640611,24,7.71,528,172451.0,Late,No,2025-01-11
+557,Ruiz LLC,Northern Cape,Hospitality,9,3734183,117,312210,36,7.87,640,311181.92,Current,No,2024-11-07
+558,"Schneider, Pollard and Smith",North West,Retail,10,2124611,52,300231,24,13.85,590,177050.92,Late,Yes,2025-12-26
+559,Johnson PLC,KwaZulu-Natal,Construction,7,4484575,89,457014,24,9.27,790,373714.58,Paid Off,No,2026-04-28
+560,Martinez LLC,Limpopo,Hospitality,17,3610764,99,384977,24,7.69,602,300897.0,Late,No,2026-08-26
+561,Hamilton Ltd,North West,Retail,5,4517338,68,559394,12,9.21,831,376444.83,Current,No,2025-03-15
+562,Evans-Warren,Gauteng,Retail,3,1908566,144,457821,36,8.23,807,159047.17,Late,Yes,2025-10-05
+563,"Payne, Williams and Duncan",Limpopo,Manufacturing,16,1098899,10,269730,24,8.56,491,91574.92,Current,No,2024-08-27
+564,Quinn-Galloway,Northern Cape,Technology,6,3835447,81,460513,36,11.64,664,319620.58,Paid Off,No,2026-05-30
+565,"Meadows, Ray and Nelson",Free State,Hospitality,19,486213,103,104460,36,15.56,527,40517.75,Current,No,2026-04-29
+566,Arnold Group,Gauteng,Construction,16,1901951,56,102949,48,13.12,508,158495.92,Paid Off,No,2026-02-02
+567,Chan PLC,Gauteng,Manufacturing,3,3921301,87,121916,12,15.67,553,326775.08,Paid Off,No,2026-04-06
+568,"Stanton, Madden and Green",Free State,Retail,10,450068,127,312048,12,10.99,627,37505.67,Current,No,2023-10-15
+569,Ramirez-Garcia,Eastern Cape,Hospitality,5,3419343,112,982063,60,16.99,452,284945.25,Late,Yes,2026-02-26
+570,Fitzpatrick and Sons,Western Cape,Technology,17,3373751,79,422339,36,13.83,600,281145.92,Late,Yes,2026-06-13
+571,Kelly-Diaz,Northern Cape,Agriculture,4,2895766,96,270935,60,6.81,528,241313.83,Current,No,2026-07-24
+572,"Cruz, Martin and Wagner",Northern Cape,Construction,17,3596716,98,878416,24,10.73,483,299726.33,Current,No,2024-11-22
+573,"Kramer, Ramirez and Knight",Gauteng,Construction,6,2805421,89,365783,60,11.08,796,233785.08,Current,No,2024-11-01
+574,Sanders Ltd,Gauteng,Agriculture,3,2356356,130,844383,48,11.67,755,196363.0,Late,No,2025-04-23
+575,Cameron PLC,Free State,Construction,2,1255933,148,491733,36,5.71,530,104661.08,Paid Off,No,2026-07-18
+576,Miranda-Anderson,Eastern Cape,Hospitality,8,912744,64,116985,24,7.18,634,76062.0,Current,No,2026-05-08
+577,"Lane, Bishop and Sanders",Gauteng,Transport,6,1978266,4,977328,60,9.53,467,164855.5,Late,Yes,2026-02-01
+578,"Jennings, Nichols and Branch",Limpopo,Transport,11,1117375,70,322544,24,5.7,733,93114.58,Current,No,2025-10-06
+579,Cooper PLC,Western Cape,Hospitality,10,4692087,113,649095,60,13.92,562,391007.25,Current,No,2024-02-24
+580,"Williams, Wu and Walter",KwaZulu-Natal,Hospitality,10,2243184,98,554910,24,5.49,595,186932.0,Paid Off,No,2023-12-25
+581,Wright-Morales,Mpumalanga,Hospitality,7,3579799,68,771041,12,16.15,555,298316.58,Current,No,2025-05-22
+582,Reed and Sons,North West,Manufacturing,11,4922778,128,899326,48,15.76,781,410231.5,Paid Off,No,2026-08-31
+583,Pratt-Singh,Limpopo,Manufacturing,6,1066325,63,902208,12,8.79,818,88860.42,Current,No,2025-07-14
+584,"Brock, Hall and Armstrong",KwaZulu-Natal,Retail,3,3986613,42,914714,24,15.92,661,332217.75,Paid Off,No,2023-11-10
+585,"Paul, Diaz and Daniels",Limpopo,Retail,16,3429782,110,615369,36,13.25,722,285815.17,Current,No,2026-09-24
+586,"Wiley, Clark and Wilson",Free State,Construction,19,573656,65,76081,36,11.19,740,47804.67,Late,Yes,2025-08-25
+587,"Wade, Long and Williams",Gauteng,Transport,16,3713163,74,606922,36,5.19,510,309430.25,Current,No,2024-04-08
+588,"Pham, Gonzalez and Chang",Western Cape,Hospitality,7,104011,78,966148,36,14.11,776,8667.58,Current,No,2024-07-10
+589,Bernard Inc,Free State,Agriculture,18,1940277,146,958063,60,7.42,810,161689.75,Late,Yes,2024-05-25
+590,Gutierrez Inc,Gauteng,Technology,13,2553894,36,807582,60,16.09,493,212824.5,Paid Off,No,2025-04-17
+591,Pearson and Sons,Limpopo,Hospitality,5,2565596,119,163793,60,9.45,504,213799.67,Paid Off,No,2024-01-15
+592,Gonzales-Gillespie,Northern Cape,Technology,15,2719222,71,937196,36,15.74,483,226601.83,Current,No,2026-07-08
+593,Moreno and Sons,Eastern Cape,Hospitality,18,1151690,103,862934,24,6.93,554,95974.17,Current,No,2026-04-05
+594,"Price, Harris and Flynn",KwaZulu-Natal,Transport,2,1028864,56,715673,12,11.84,564,85738.67,Current,No,2026-01-13
+595,"Morrison, Davies and Morris",Western Cape,Technology,17,1348749,13,551946,12,13.89,579,112395.75,Current,No,2026-03-14
+596,Rivera LLC,Mpumalanga,Retail,1,696682,88,379801,12,6.17,474,58056.83,Late,Yes,2026-08-13
+597,Patrick-Watkins,North West,Retail,5,906017,68,284847,12,6.45,826,75501.42,Current,No,2023-10-08
+598,"Jacobs, Wagner and Livingston",Western Cape,Technology,18,4345871,74,141229,60,16.4,617,362155.92,Late,Yes,2024-04-15
+599,Hernandez-Bates,Gauteng,Retail,10,1017999,14,881187,12,6.49,550,84833.25,Current,No,2026-05-25
+600,"Johnson, Williams and Rice",Northern Cape,Construction,4,3924977,79,286538,36,11.05,825,327081.42,Current,No,2025-08-09
+601,Rodriguez-Pope,Gauteng,Agriculture,5,4636857,131,849448,24,16.92,603,386404.75,Current,No,2023-11-09
+602,"Christensen, Gray and Smith",KwaZulu-Natal,Manufacturing,19,2660272,49,736059,24,9.72,525,221689.33,Paid Off,No,2025-05-25
+603,"Jordan, Oneal and Cox",North West,Construction,4,802214,54,518013,12,5.67,751,66851.17,Current,No,2025-01-07
+604,Caldwell-Higgins,Limpopo,Transport,10,129813,134,789791,48,7.42,593,10817.75,Current,No,2024-12-06
+605,Allen LLC,Limpopo,Retail,9,1715181,26,228986,12,11.27,603,142931.75,Current,No,2024-09-16
+606,Wilson-Barker,Western Cape,Hospitality,3,2137171,108,508819,12,16.67,702,178097.58,Current,No,2025-04-04
+607,Mckenzie-Mendoza,Western Cape,Transport,12,2154048,26,65116,60,7.68,527,179504.0,Current,No,2024-03-23
+608,"Schwartz, Silva and Woodard",Limpopo,Retail,4,4599367,48,919953,48,14.6,683,383280.58,Paid Off,No,2026-02-04
+609,"Miller, Ortega and Eaton",KwaZulu-Natal,Agriculture,14,2857506,44,800774,60,11.7,717,238125.5,Late,No,2025-05-08
+610,Mclean-Edwards,Eastern Cape,Manufacturing,13,4021087,117,880819,36,7.49,727,335090.58,Current,No,2026-07-20
+611,"Hess, Foster and Page",Free State,Technology,16,789925,69,936867,36,8.56,604,65827.08,Paid Off,No,2025-08-10
+612,"Hernandez, Alexander and Petersen",Mpumalanga,Retail,3,922564,149,952152,60,15.87,720,76880.33,Current,No,2025-10-21
+613,Owens-King,Limpopo,Hospitality,6,2303463,10,608697,48,7.51,830,191955.25,Current,No,2024-12-14
+614,Martin-Scott,KwaZulu-Natal,Retail,14,4278465,12,446456,48,7.27,459,356538.75,Late,Yes,2025-06-19
+615,Harrison PLC,Western Cape,Construction,2,3669769,19,513956,24,6.58,663,305814.08,Paid Off,No,2024-08-26
+616,Davenport-Moore,Northern Cape,Agriculture,10,919973,8,603351,24,9.35,574,76664.42,Late,No,2025-02-23
+617,"Bell, Aguilar and Rodriguez",Eastern Cape,Construction,4,1346729,106,734500,48,11.59,661,112227.42,Current,No,2026-04-09
+618,Salinas-Allen,Western Cape,Hospitality,16,1031253,20,899649,12,9.26,791,85937.75,Current,No,2025-07-13
+619,Young Ltd,Limpopo,Hospitality,6,2153413,122,444485,12,13.11,638,179451.08,Current,No,2026-01-06
+620,Sanchez LLC,Mpumalanga,Construction,6,2861623,57,678274,12,10.58,715,238468.58,Late,Yes,2025-02-02
+621,"Benson, Myers and Keller",Eastern Cape,Agriculture,12,4205513,32,625770,24,12.5,523,350459.42,Current,No,2025-08-08
+622,Flores-Cole,Limpopo,Construction,11,4051382,31,411185,12,15.97,506,337615.17,Current,No,2023-11-22
+623,Garza-Dean,KwaZulu-Natal,Manufacturing,18,4194638,114,401136,60,12.42,678,349553.17,Current,No,2024-09-06
+624,"Campbell, Eaton and Cardenas",Free State,Agriculture,14,2631069,87,494503,48,17.91,521,219255.75,Current,No,2025-06-15
+625,Vang Ltd,Eastern Cape,Agriculture,2,902009,147,397299,24,10.92,610,75167.42,Late,No,2024-04-30
+626,Roberts Ltd,Gauteng,Transport,19,1354329,24,944230,24,5.73,700,112860.75,Current,No,2025-01-09
+627,Schultz-Pope,KwaZulu-Natal,Construction,8,261297,3,922504,24,11.7,561,21774.75,Late,No,2023-12-20
+628,"Wilson, Patterson and Wood",Free State,Hospitality,12,1831530,2,165819,60,10.12,605,152627.5,Current,No,2025-03-08
+629,Pierce and Sons,Free State,Construction,12,4890287,5,303078,36,16.69,703,407523.92,Late,No,2025-01-05
+630,Garner Group,North West,Technology,13,383816,7,842244,48,13.79,815,31984.67,Current,No,2025-08-07
+631,"Graves, Brennan and Poole",Eastern Cape,Manufacturing,15,2037135,108,361011,24,17.27,790,169761.25,Current,No,2025-02-18
+632,Freeman-Rivera,Limpopo,Manufacturing,16,2579340,144,89148,60,17.82,668,214945.0,Paid Off,No,2025-10-15
+633,Stewart LLC,Free State,Retail,8,4235247,9,998894,48,10.24,758,352937.25,Current,No,2024-04-15
+634,Anderson-Owen,Limpopo,Agriculture,3,3893092,109,732465,24,9.72,815,324424.33,Current,No,2025-10-02
+635,"Zhang, Richardson and Dillon",North West,Retail,10,4008005,101,806547,36,7.66,630,334000.42,Current,No,2025-05-30
+636,Roberts Inc,Mpumalanga,Manufacturing,15,1237317,10,68830,48,17.41,710,103109.75,Current,No,2025-07-07
+637,"Gonzalez, Rogers and Barron",Western Cape,Transport,18,604655,101,680759,36,13.32,741,50387.92,Paid Off,No,2024-06-06
+638,"Reeves, Johnson and Travis",Eastern Cape,Construction,18,2826826,28,807666,24,17.02,512,235568.83,Late,Yes,2023-11-30
+639,Wheeler Group,Gauteng,Manufacturing,5,879105,91,855609,36,12.5,450,73258.75,Current,No,2025-05-06
+640,Rodriguez Group,Northern Cape,Transport,7,4547321,130,701824,12,13.99,743,378943.42,Late,Yes,2026-08-04
+641,Velez-Bradley,Western Cape,Technology,15,4663870,124,422078,24,12.57,617,388655.83,Current,No,2025-09-12
+642,Davis and Sons,Eastern Cape,Manufacturing,15,2530412,113,515806,24,16.22,476,210867.67,Current,No,2026-08-18
+643,Case PLC,Limpopo,Hospitality,17,3918806,84,661796,48,9.05,761,326567.17,Late,No,2025-10-15
+644,"Garcia, Morris and Thornton",Western Cape,Hospitality,15,3523376,62,773953,48,8.87,486,293614.67,Paid Off,No,2025-01-08
+645,Skinner-Reynolds,Eastern Cape,Manufacturing,19,4065292,34,851798,24,9.46,698,338774.33,Current,No,2023-10-09
+646,"Meyer, Bell and Gay",Mpumalanga,Manufacturing,10,3774153,128,604280,36,11.78,680,314512.75,Paid Off,No,2025-12-05
+647,"Murray, Anderson and George",Free State,Retail,1,2148880,9,422454,12,15.07,527,179073.33,Current,No,2025-12-16
+648,George and Sons,Western Cape,Retail,8,2751813,141,172026,12,12.39,512,229317.75,Current,No,2024-11-20
+649,Bennett-Chavez,Mpumalanga,Retail,11,1758800,129,545395,24,11.34,827,146566.67,Current,No,2024-08-11
+650,Wright-Green,Mpumalanga,Retail,16,4914647,5,438333,60,12.54,821,409553.92,Current,No,2026-06-09
+651,Adkins PLC,Gauteng,Construction,6,4274904,131,907692,24,12.52,468,356242.0,Current,No,2024-01-07
+652,"Brandt, Hopkins and Rios",Limpopo,Transport,9,1329351,109,141288,24,8.94,576,110779.25,Current,No,2025-12-18
+653,Garcia-Schultz,Limpopo,Retail,16,1522533,81,743618,60,15.54,822,126877.75,Current,No,2025-03-03
+654,Lowery PLC,Eastern Cape,Retail,19,174231,17,123606,36,8.35,567,14519.25,Current,No,2023-10-20
+655,Kline-Levine,Free State,Hospitality,4,2898610,81,76128,48,6.26,774,241550.83,Paid Off,No,2025-01-26
+656,"Thomas, Brown and Faulkner",Eastern Cape,Construction,4,3939973,51,365288,60,11.7,646,328331.08,Current,No,2026-03-10
+657,Montoya-Brown,KwaZulu-Natal,Technology,19,158123,129,161825,48,8.12,466,13176.92,Paid Off,No,2024-11-25
+658,Waters Ltd,Eastern Cape,Retail,3,1461621,109,110186,12,8.07,660,121801.75,Current,No,2026-02-02
+659,David-Knight,Gauteng,Construction,7,981809,82,355007,48,10.85,476,81817.42,Late,No,2024-10-02
+660,"Lee, Spencer and Jensen",Northern Cape,Manufacturing,2,4179430,35,464627,24,8.22,487,348285.83,Current,No,2025-09-27
+661,Barr LLC,Mpumalanga,Technology,4,3209823,23,392424,48,7.99,653,267485.25,Current,No,2026-07-04
+662,"Hernandez, Phillips and Salazar",Free State,Transport,4,1376120,42,916304,48,17.67,584,114676.67,Current,No,2025-07-30
+663,Murray-Diaz,Eastern Cape,Technology,18,393313,62,619929,12,14.31,557,32776.08,Paid Off,No,2026-04-26
+664,Best Group,KwaZulu-Natal,Hospitality,7,4785942,44,901617,24,10.43,647,398828.5,Current,No,2026-01-25
+665,Peterson-Robinson,Gauteng,Technology,3,1499298,13,664229,24,6.63,523,124941.5,Current,No,2025-09-28
+666,Huber-Ferguson,Northern Cape,Manufacturing,7,2334967,21,677763,48,16.33,583,194580.58,Late,No,2024-09-22
+667,"Esparza, Anderson and Hogan",Mpumalanga,Manufacturing,3,4550627,56,925512,48,10.62,806,379218.92,Current,No,2026-09-27
+668,Mahoney-Martin,Mpumalanga,Retail,13,3970019,99,140925,12,14.12,783,330834.92,Current,No,2026-01-22
+669,Bowen-Waller,Mpumalanga,Technology,13,4306771,107,91025,36,8.82,757,358897.58,Current,No,2025-01-25
+670,Compton Ltd,Northern Cape,Retail,12,2058615,12,375188,60,16.9,533,171551.25,Paid Off,No,2023-12-13
+671,"Braun, Garcia and Rivers",KwaZulu-Natal,Manufacturing,1,1409752,120,433015,60,11.74,823,117479.33,Current,No,2026-08-13
+672,"Dennis, Collier and Davis",North West,Technology,7,1511188,75,965639,60,11.4,843,125932.33,Late,No,2026-08-21
+673,Harris-Osborne,Western Cape,Retail,2,628168,140,486670,12,10.92,469,52347.33,Current,No,2025-12-12
+674,Hamilton-Walton,Mpumalanga,Transport,6,2631196,89,774886,48,5.5,540,219266.33,Late,Yes,2025-03-11
+675,"Mcmillan, Lowery and Cohen",Free State,Technology,8,4843216,18,767875,60,16.26,738,403601.33,Current,No,2026-06-05
+676,Noble-Morgan,Western Cape,Technology,19,2273577,16,997790,36,11.35,619,189464.75,Current,No,2026-08-03
+677,Schneider-Baker,Free State,Technology,2,3731453,92,854748,60,6.68,618,310954.42,Current,No,2026-02-22
+678,Williams Inc,Free State,Manufacturing,13,2165306,38,631529,60,17.26,577,180442.17,Current,No,2025-09-06
+679,"Manning, Johnson and Mason",Northern Cape,Construction,2,3282132,125,105182,24,9.43,673,273511.0,Late,Yes,2025-11-04
+680,"Schaefer, Macdonald and Miller",Mpumalanga,Agriculture,4,4866589,21,581458,24,5.85,513,405549.08,Late,No,2025-06-02
+681,Graham Inc,Limpopo,Retail,11,1896218,25,588304,36,10.71,548,158018.17,Current,No,2026-08-20
+682,"Perez, Barnett and Mcdowell",Free State,Retail,3,4246226,2,455377,24,11.1,659,353852.17,Current,No,2026-01-26
+683,Ramirez Ltd,Mpumalanga,Retail,10,4850411,131,97779,24,13.6,534,404200.92,Current,No,2024-10-11
+684,"Davis, Coffey and Wells",Free State,Hospitality,13,1455097,15,248910,36,6.33,685,121258.08,Current,No,2025-04-29
+685,"Maxwell, Choi and Webster",North West,Technology,16,212036,149,238674,24,13.72,496,17669.67,Paid Off,No,2024-04-06
+686,Krueger PLC,Northern Cape,Manufacturing,6,4567801,8,162313,12,12.16,767,380650.08,Current,No,2026-01-23
+687,"Sullivan, Lucas and Kim",North West,Transport,6,1458356,8,517143,24,12.87,820,121529.67,Late,Yes,2025-08-26
+688,"Sanchez, Morse and Ball",Mpumalanga,Transport,18,2669464,84,886188,60,7.4,714,222455.33,Current,No,2023-10-11
+689,"Cantrell, Logan and Sharp",Mpumalanga,Technology,7,556104,14,119351,60,9.25,542,46342.0,Current,No,2023-11-10
+690,"Stone, Perez and Cooper",KwaZulu-Natal,Retail,9,3773336,72,716110,60,13.78,540,314444.67,Current,No,2026-01-24
+691,Chandler-Serrano,Northern Cape,Construction,7,4045123,129,507576,24,11.67,732,337093.58,Late,Yes,2025-01-28
+692,"Rivera, Wood and Sanchez",Western Cape,Technology,3,3079845,2,665036,48,13.75,763,256653.75,Late,No,2024-11-23
+693,"Lamb, West and Ryan",Gauteng,Construction,7,4774071,116,59583,60,12.54,661,397839.25,Late,Yes,2025-12-05
+694,"Hernandez, Ross and Rosales",Gauteng,Technology,15,4973014,35,518298,48,7.89,665,414417.83,Current,No,2024-01-22
+695,Brown-Mccall,Northern Cape,Agriculture,8,659119,11,299402,12,14.81,692,54926.58,Current,No,2024-07-22
+696,Carney-Floyd,Western Cape,Agriculture,19,3132362,103,203412,12,9.61,846,261030.17,Paid Off,No,2025-03-25
+697,"Baker, Mclean and Gill",Gauteng,Agriculture,7,1687514,101,227190,24,16.79,708,140626.17,Current,No,2024-11-25
+698,Santana-Gonzalez,Eastern Cape,Transport,7,1947199,77,330195,12,11.1,725,162266.58,Current,No,2026-06-30
+699,Cochran Ltd,Limpopo,Retail,3,4397839,80,877165,24,11.67,759,366486.58,Current,No,2026-01-18
+700,Roberts Ltd,Eastern Cape,Construction,5,3357983,100,660610,48,6.13,471,279831.92,Current,No,2026-01-23
+701,Rodriguez and Sons,Western Cape,Construction,18,2457681,100,493855,48,13.17,618,204806.75,Current,No,2024-02-11
+702,"Rodriguez, Fuentes and Moore",KwaZulu-Natal,Retail,7,1485049,49,51620,60,7.38,722,123754.08,Paid Off,No,2025-08-12
+703,"Whitehead, York and Porter",KwaZulu-Natal,Transport,16,2099085,2,999133,36,7.91,508,174923.75,Late,Yes,2026-09-25
+704,Downs-Strickland,Limpopo,Transport,5,3110129,99,139743,60,14.91,837,259177.42,Late,No,2026-03-11
+705,Jackson Inc,Northern Cape,Retail,10,339647,100,380825,24,8.48,620,28303.92,Current,No,2026-10-01
+706,Chen PLC,Eastern Cape,Agriculture,18,1609837,75,726760,36,10.27,592,134153.08,Current,No,2024-02-13
+707,"Skinner, Beard and Mcintosh",Eastern Cape,Agriculture,10,223199,112,281525,12,15.47,811,18599.92,Paid Off,No,2025-03-30
+708,"Rose, Ayala and Mejia",North West,Transport,13,3322989,98,807600,48,13.19,541,276915.75,Current,No,2025-07-09
+709,Johnson and Sons,Gauteng,Hospitality,5,3861054,67,349564,24,8.53,586,321754.5,Current,No,2026-07-31
+710,"Smith, Browning and Smith",Western Cape,Hospitality,3,2807929,3,658952,48,10.41,702,233994.08,Current,No,2023-12-10
+711,"Kelley, Moore and Key",Mpumalanga,Retail,13,4460866,64,257158,48,15.22,842,371738.83,Current,No,2026-06-16
+712,Wright PLC,Northern Cape,Agriculture,18,3161316,30,418697,36,17.95,555,263443.0,Late,No,2026-07-19
+713,Bennett-Garcia,Western Cape,Manufacturing,6,1803728,103,568953,24,10.43,653,150310.67,Current,No,2025-08-17
+714,Ayala-Walton,Western Cape,Manufacturing,4,4594893,125,759163,48,13.09,727,382907.75,Current,No,2026-04-26
+715,Forbes Ltd,North West,Retail,2,1825240,19,478910,60,9.46,778,152103.33,Current,No,2024-07-02
+716,Nunez-Chan,KwaZulu-Natal,Agriculture,8,1552242,33,368166,36,16.41,489,129353.5,Late,No,2023-12-27
+717,Leon LLC,North West,Construction,1,2664462,106,386399,48,5.9,728,222038.5,Current,No,2024-01-21
+718,Harris-Donaldson,Limpopo,Retail,17,2195637,18,741150,24,5.72,718,182969.75,Current,No,2026-02-11
+719,Norman-Hayes,Gauteng,Hospitality,16,4011372,130,220534,12,16.3,603,334281.0,Current,No,2025-12-03
+720,Anderson PLC,North West,Transport,18,3311369,74,880679,12,11.03,595,275947.42,Current,No,2024-01-07
+721,Stanley-Buck,KwaZulu-Natal,Hospitality,6,1426325,22,546389,36,6.68,475,118860.42,Current,No,2024-09-24
+722,Campbell LLC,Free State,Technology,7,4389639,9,157441,48,10.28,538,365803.25,Late,No,2024-08-16
+723,Morales-Gonzalez,North West,Manufacturing,13,4229977,70,833077,12,14.29,580,352498.08,Current,No,2026-09-03
+724,"Perry, Young and Brooks",KwaZulu-Natal,Manufacturing,18,4364550,121,246936,48,15.1,821,363712.5,Paid Off,No,2024-01-18
+725,Reyes and Sons,North West,Manufacturing,18,3742891,100,107676,36,13.9,746,311907.58,Current,No,2026-01-18
+726,Thomas Inc,Northern Cape,Manufacturing,14,3177026,74,97599,12,17.55,592,264752.17,Current,No,2026-10-05
+727,"Clark, Hampton and Bell",KwaZulu-Natal,Agriculture,19,2746785,29,299495,36,13.45,664,228898.75,Paid Off,No,2024-10-19
+728,James Inc,Mpumalanga,Technology,16,2296916,149,172357,12,6.5,795,191409.67,Paid Off,No,2024-03-13
+729,Berry LLC,Gauteng,Technology,10,2807834,123,963605,24,17.17,493,233986.17,Current,No,2025-09-21
+730,"Fuller, Miller and Smith",Limpopo,Hospitality,12,1367403,69,317201,12,17.23,697,113950.25,Current,No,2026-07-16
+731,Alvarado-Dudley,Limpopo,Hospitality,5,4532482,115,309418,48,11.97,665,377706.83,Paid Off,No,2026-07-29
+732,Hayes and Sons,Western Cape,Technology,11,2178038,101,952520,60,9.44,579,181503.17,Late,Yes,2026-04-15
+733,Little PLC,Mpumalanga,Transport,13,3737588,25,437932,24,14.95,469,311465.67,Current,No,2025-03-31
+734,"Maxwell, Schmidt and Rodriguez",Free State,Construction,6,4155032,147,661650,48,12.9,674,346252.67,Current,No,2026-07-23
+735,"Fletcher, Davis and Foster",Mpumalanga,Technology,19,2173890,131,285851,48,17.73,543,181157.5,Current,No,2025-10-17
+736,Fisher-Vaughn,Western Cape,Transport,5,2896647,16,297541,24,8.39,610,241387.25,Current,No,2025-08-06
+737,Hines Inc,North West,Technology,13,2795145,137,894326,24,5.21,538,232928.75,Current,No,2023-12-16
+738,Chang-Shaw,Free State,Hospitality,18,490732,74,634379,24,6.65,464,40894.33,Current,No,2025-01-12
+739,"King, Hendrix and Payne",Western Cape,Construction,7,775899,14,368774,12,6.03,465,64658.25,Current,No,2023-12-13
+740,Sullivan Inc,Eastern Cape,Hospitality,17,782986,19,410400,60,11.41,635,65248.83,Current,No,2026-06-16
+741,Saunders-Moore,North West,Agriculture,13,3444849,73,385510,12,17.15,687,287070.75,Current,No,2025-09-28
+742,"Clark, Williams and Allen",Eastern Cape,Retail,17,340346,74,668821,24,15.05,569,28362.17,Current,No,2023-11-23
+743,"Lee, Phillips and Garrett",Gauteng,Technology,11,1870330,16,514271,36,12.07,667,155860.83,Current,No,2024-01-06
+744,Phillips-Hood,Gauteng,Retail,8,4782251,134,708210,36,14.87,690,398520.92,Late,Yes,2024-01-10
+745,Torres-Jones,Eastern Cape,Hospitality,2,2034984,103,340395,12,14.4,766,169582.0,Current,No,2023-11-17
+746,Burgess-Smith,Mpumalanga,Technology,5,4657612,46,273457,24,10.58,686,388134.33,Paid Off,No,2026-07-08
+747,Flynn LLC,North West,Construction,10,3473328,91,754397,12,9.18,681,289444.0,Current,No,2025-10-16
+748,Patel Ltd,North West,Transport,18,1267213,106,957153,36,7.63,486,105601.08,Late,No,2024-11-25
+749,Clark-Allen,Limpopo,Transport,3,2571146,87,879374,36,6.97,716,214262.17,Paid Off,No,2023-11-12
+750,Pace-Buck,Western Cape,Transport,11,4271364,15,175604,48,10.34,478,355947.0,Current,No,2024-01-23
+751,Scott-Little,North West,Agriculture,18,3035973,123,889446,60,6.53,508,252997.75,Paid Off,No,2024-06-15
+752,"Morrison, Meyer and Pittman",KwaZulu-Natal,Retail,18,741462,139,196429,48,12.02,499,61788.5,Current,No,2025-05-02
+753,Ball Ltd,Free State,Agriculture,7,1850093,15,440555,36,13.65,524,154174.42,Current,No,2026-04-11
+754,"Stout, Castillo and Reed",Eastern Cape,Transport,12,1074303,78,898689,12,7.66,600,89525.25,Current,No,2024-02-27
+755,Brown PLC,KwaZulu-Natal,Retail,3,4847924,81,443145,36,7.07,595,403993.67,Current,No,2024-10-08
+756,Harrison-Armstrong,Western Cape,Agriculture,6,1151341,143,355218,60,7.73,845,95945.08,Current,No,2024-06-01
+757,Mitchell Ltd,Gauteng,Hospitality,7,3395453,70,677867,36,6.17,591,282954.42,Current,No,2024-12-21
+758,Thornton Inc,Mpumalanga,Hospitality,18,3191287,24,762932,12,16.97,825,265940.58,Late,No,2024-06-23
+759,Smith-Cox,Free State,Agriculture,12,1481688,139,103915,24,6.18,829,123474.0,Current,No,2026-06-13
+760,Ferguson Ltd,North West,Agriculture,10,3298747,118,257226,60,14.0,659,274895.58,Current,No,2024-10-28
+761,Ward-Hall,Western Cape,Hospitality,4,4826234,72,129971,24,6.97,710,402186.17,Current,No,2026-07-12
+762,Mercer-Webb,Limpopo,Transport,2,1299110,53,896462,24,17.43,541,108259.17,Paid Off,No,2024-12-20
+763,"Simmons, Thompson and Hill",Eastern Cape,Manufacturing,10,1985190,124,551477,36,10.45,605,165432.5,Current,No,2025-10-17
+764,Francis Ltd,Northern Cape,Manufacturing,7,2973798,41,576701,60,15.37,739,247816.5,Current,No,2025-01-09
+765,Bryan Group,North West,Agriculture,14,951563,68,900712,36,5.48,488,79296.92,Current,No,2024-08-24
+766,Silva-Gonzalez,Mpumalanga,Manufacturing,15,2309485,101,612080,12,11.01,689,192457.08,Current,No,2026-02-18
+767,Rivas-Clark,North West,Transport,16,3864993,123,359963,24,17.07,759,322082.75,Paid Off,No,2026-02-28
+768,"Johnson, Parker and Flores",North West,Construction,2,2606976,97,440857,48,12.04,675,217248.0,Paid Off,No,2024-11-20
+769,Rios LLC,Eastern Cape,Retail,13,767538,40,463151,60,6.33,604,63961.5,Current,No,2025-01-28
+770,"Montes, Perkins and Walsh",Free State,Hospitality,8,4580609,84,955352,24,16.46,825,381717.42,Late,No,2024-05-01
+771,"Watson, Zimmerman and Garrett",KwaZulu-Natal,Retail,14,2819713,46,632933,60,9.89,588,234976.08,Late,Yes,2024-01-19
+772,"Conley, Stevens and Chan",Gauteng,Technology,8,2487807,110,122782,48,14.47,685,207317.25,Paid Off,No,2026-04-09
+773,"Carey, Mckenzie and Newman",Free State,Construction,9,1772992,10,322827,36,11.62,562,147749.33,Late,No,2026-09-16
+774,Williams PLC,Northern Cape,Retail,1,2468787,139,259720,48,16.33,688,205732.25,Current,No,2025-01-22
+775,Thompson-Walker,Eastern Cape,Technology,17,2062160,53,736296,24,6.23,460,171846.67,Current,No,2024-12-15
+776,"Snyder, Jones and Bass",North West,Manufacturing,8,1695776,77,130771,48,13.46,702,141314.67,Current,No,2025-09-21
+777,Sosa-Carter,North West,Retail,11,4723190,58,279171,60,17.99,529,393599.17,Paid Off,No,2024-05-27
+778,Wilson Group,Limpopo,Agriculture,7,2795563,62,499542,24,12.03,577,232963.58,Current,No,2023-11-15
+779,Castillo-Jones,North West,Transport,9,2882540,145,161030,24,11.11,824,240211.67,Current,No,2025-08-01
+780,"Miller, Ward and Simmons",Gauteng,Transport,18,587707,140,142091,60,9.4,592,48975.58,Current,No,2026-06-25
+781,"Herrera, Hernandez and Wallace",Limpopo,Construction,8,4040063,109,471743,60,17.58,719,336671.92,Current,No,2026-01-10
+782,Castro and Sons,Northern Cape,Manufacturing,11,3437013,99,878804,36,17.89,590,286417.75,Current,No,2025-12-19
+783,"Schroeder, Alvarez and Gates",Gauteng,Transport,7,2118852,91,839622,12,14.01,535,176571.0,Current,No,2025-07-10
+784,James-Taylor,North West,Technology,10,2450959,106,733245,60,13.89,831,204246.58,Paid Off,No,2023-11-29
+785,Collins-Anderson,North West,Hospitality,18,1449651,38,105823,60,8.89,594,120804.25,Late,No,2024-09-04
+786,Rangel-Hudson,Limpopo,Retail,4,3992825,79,160494,12,9.04,749,332735.42,Current,No,2024-09-26
+787,Jordan Ltd,Mpumalanga,Agriculture,16,3479595,116,162223,36,9.37,794,289966.25,Late,No,2026-01-21
+788,"Norris, Villarreal and Brown",Eastern Cape,Hospitality,5,1386353,138,217567,12,11.7,841,115529.42,Late,No,2026-06-13
+789,Wilson-Lopez,Eastern Cape,Manufacturing,6,4986202,78,674860,60,12.01,495,415516.83,Late,Yes,2026-04-26
+790,"Hernandez, Sanchez and Wood",Gauteng,Hospitality,11,4830654,62,387530,12,14.38,503,402554.5,Late,Yes,2025-11-03
+791,"Wells, Irwin and Brennan",KwaZulu-Natal,Transport,6,2437643,146,635885,60,12.0,722,203136.92,Paid Off,No,2026-04-26
+792,Sandoval-Osborn,Mpumalanga,Manufacturing,17,3219331,34,907759,48,11.72,843,268277.58,Current,No,2026-04-16
+793,Waters-Frank,KwaZulu-Natal,Manufacturing,8,4467207,82,486149,60,13.09,653,372267.25,Current,No,2024-03-20
+794,Edwards PLC,Limpopo,Retail,19,4643247,113,563223,48,5.86,689,386937.25,Paid Off,No,2026-02-05
+795,Morales-West,Free State,Construction,7,2935309,116,790150,12,6.89,578,244609.08,Current,No,2025-06-18
+796,Hall-Adams,North West,Manufacturing,10,389372,73,64429,48,13.56,776,32447.67,Current,No,2025-11-05
+797,Kennedy Group,Free State,Technology,4,4494203,88,478472,12,15.99,590,374516.92,Paid Off,No,2024-11-18
+798,Walter-Martinez,Limpopo,Technology,7,4535786,57,815598,36,14.58,577,377982.17,Late,No,2024-07-30
+799,"Harris, Joseph and Smith",Limpopo,Construction,4,3796458,37,131948,12,14.49,643,316371.5,Paid Off,No,2025-10-14
+800,Carter-Hernandez,Northern Cape,Hospitality,19,668933,61,434903,24,5.98,526,55744.42,Paid Off,No,2026-04-22
+801,Powell PLC,Limpopo,Agriculture,7,3446386,19,590997,48,7.45,812,287198.83,Paid Off,No,2024-04-30
+802,Murray Group,Limpopo,Retail,17,1643992,127,234484,12,11.54,510,136999.33,Current,No,2024-11-04
+803,Hughes-Wilkerson,Gauteng,Transport,18,2934523,31,168922,36,12.2,782,244543.58,Current,No,2024-10-26
+804,Ramos-Bryant,Northern Cape,Agriculture,14,4507900,86,118515,60,7.47,758,375658.33,Current,No,2026-01-14
+805,Wilson-Hudson,North West,Transport,6,1507576,81,902633,60,17.67,616,125631.33,Current,No,2024-09-18
+806,"Roberts, Anderson and Hernandez",North West,Manufacturing,14,599471,19,882119,12,16.86,789,49955.92,Current,No,2024-02-26
+807,Larsen LLC,Gauteng,Construction,10,728373,77,683389,36,9.63,562,60697.75,Current,No,2025-03-04
+808,Roberts Group,KwaZulu-Natal,Technology,14,3883831,12,270994,48,15.0,688,323652.58,Late,No,2023-11-09
+809,Daniels-Stanton,Eastern Cape,Manufacturing,11,4575687,121,191488,24,6.52,790,381307.25,Current,No,2025-10-05
+810,"Bowers, Bailey and Jones",Northern Cape,Construction,11,1104411,37,851123,12,6.32,665,92034.25,Late,Yes,2026-05-17
+811,Smith Group,North West,Manufacturing,9,2036983,102,405992,60,13.47,574,169748.58,Current,No,2024-05-02
+812,"Jones, Manning and Preston",Mpumalanga,Manufacturing,3,105435,12,189565,24,14.66,485,8786.25,Current,No,2024-05-19
+813,Ramirez-Moore,North West,Retail,7,2239934,128,497628,60,6.11,595,186661.17,Paid Off,No,2024-08-17
+814,Henderson PLC,North West,Technology,2,2233221,15,787550,60,16.68,708,186101.75,Late,No,2026-03-08
+815,Jackson-Alexander,Limpopo,Technology,10,539717,146,762494,24,9.17,506,44976.42,Paid Off,No,2026-09-01
+816,Allen Group,Mpumalanga,Hospitality,2,4775431,42,531363,60,8.85,492,397952.58,Current,No,2024-08-08
+817,Ramsey-Mack,Limpopo,Construction,2,2021792,88,85282,48,9.32,835,168482.67,Current,No,2025-02-14
+818,"White, Gonzalez and Lopez",Limpopo,Construction,18,4660141,24,135283,60,8.29,652,388345.08,Current,No,2024-06-16
+819,Burke-Garza,KwaZulu-Natal,Manufacturing,2,1113071,43,230645,60,14.02,687,92755.92,Paid Off,No,2026-09-26
+820,"Mitchell, Richmond and Brown",Eastern Cape,Agriculture,7,2326217,142,682731,48,13.8,734,193851.42,Current,No,2025-12-07
+821,"Wright, White and Sandoval",Western Cape,Retail,10,2886719,120,465769,48,7.95,820,240559.92,Current,No,2024-04-17
+822,King-Hoover,North West,Construction,2,1106152,137,373923,12,10.7,502,92179.33,Current,No,2024-07-07
+823,Crawford Ltd,Limpopo,Construction,18,3789638,16,342552,12,16.53,583,315803.17,Current,No,2026-03-13
+824,"Baldwin, Riley and Williams",North West,Construction,7,103196,125,551072,12,16.15,641,8599.67,Current,No,2024-03-28
+825,Alvarez Inc,North West,Transport,15,2884787,37,908811,48,14.21,531,240398.92,Current,No,2024-10-16
+826,Phillips-Jackson,KwaZulu-Natal,Retail,13,2254327,28,974353,36,16.2,625,187860.58,Current,No,2024-06-11
+827,Potter and Sons,KwaZulu-Natal,Retail,10,1919456,69,589689,12,6.48,534,159954.67,Current,No,2023-11-28
+828,"Bowen, Little and Herrera",Northern Cape,Hospitality,9,2333414,119,644487,24,17.99,685,194451.17,Current,No,2024-05-04
+829,"Cardenas, Boyle and Jones",Western Cape,Retail,17,2381696,62,400002,60,12.28,637,198474.67,Current,No,2025-10-29
+830,Smith Ltd,Free State,Transport,4,1981934,51,649559,24,5.2,603,165161.17,Current,No,2025-05-10
+831,Garcia Inc,Limpopo,Construction,18,1186985,65,296889,48,8.57,616,98915.42,Current,No,2026-01-31
+832,Reese-Sherman,Gauteng,Agriculture,10,4375542,61,275825,24,8.95,829,364628.5,Paid Off,No,2024-12-17
+833,Raymond-Sparks,Gauteng,Transport,1,4749292,23,129360,60,6.27,582,395774.33,Current,No,2024-01-28
+834,Byrd PLC,KwaZulu-Natal,Construction,17,4519425,123,970460,12,14.61,847,376618.75,Current,No,2024-06-20
+835,"Moore, Evans and Ruiz",Free State,Hospitality,10,311463,30,943844,12,13.66,654,25955.25,Current,No,2024-09-05
+836,Cabrera and Sons,Eastern Cape,Hospitality,16,2607720,122,647121,12,12.77,742,217310.0,Current,No,2026-01-23
+837,Jones-Kelly,Western Cape,Agriculture,12,3503209,94,50801,24,11.73,492,291934.08,Late,No,2024-10-10
+838,Suarez PLC,Western Cape,Construction,16,1439083,15,211792,60,9.2,694,119923.58,Current,No,2026-08-07
+839,Ayala Inc,Free State,Manufacturing,10,277476,20,200641,48,16.89,596,23123.0,Current,No,2026-07-03
+840,Shepherd-Ochoa,KwaZulu-Natal,Technology,18,365033,42,583857,48,11.6,603,30419.42,Current,No,2026-07-25
+841,"Garner, Craig and Huang",KwaZulu-Natal,Construction,6,942329,70,195006,60,13.16,817,78527.42,Current,No,2025-07-29
+842,"Molina, Moore and Stevens",Mpumalanga,Retail,8,1133290,19,481231,24,8.04,648,94440.83,Current,No,2026-04-20
+843,Hall-Dominguez,Western Cape,Retail,4,2805430,77,259966,36,10.56,462,233785.83,Current,No,2024-05-06
+844,Singh-Dixon,Mpumalanga,Hospitality,2,2060391,122,54922,48,5.39,746,171699.25,Current,No,2025-08-10
+845,Williams-Kim,Mpumalanga,Transport,1,3575432,45,787609,12,6.94,581,297952.67,Current,No,2025-04-26
+846,Owens Inc,Western Cape,Retail,2,4040008,54,588562,24,6.5,734,336667.33,Paid Off,No,2023-12-22
+847,"Harris, Williams and Carson",North West,Technology,18,4912056,3,681036,36,14.95,468,409338.0,Paid Off,No,2025-07-21
+848,Greene-Marshall,Free State,Transport,17,2873219,139,720608,48,7.8,591,239434.92,Paid Off,No,2026-04-28
+849,Blankenship-Miller,Mpumalanga,Technology,15,3076877,94,693786,48,16.26,585,256406.42,Late,No,2026-08-07
+850,Reeves-Gordon,Northern Cape,Construction,4,2679082,48,78876,24,9.17,830,223256.83,Current,No,2025-06-08
+851,"Vasquez, Wise and Robertson",Free State,Agriculture,13,3199449,10,446562,60,15.56,537,266620.75,Paid Off,No,2024-05-16
+852,"Rivas, Lynch and Walsh",Gauteng,Retail,1,2565933,141,722636,36,17.65,817,213827.75,Current,No,2026-04-24
+853,Kim-Blevins,Eastern Cape,Manufacturing,16,3424353,125,159264,48,16.54,673,285362.75,Paid Off,No,2023-11-08
+854,Allen-Woodard,Gauteng,Hospitality,14,526941,76,778042,24,8.88,498,43911.75,Current,No,2024-02-23
+855,Aguirre-Adams,Eastern Cape,Agriculture,14,2185469,46,569904,12,12.11,750,182122.42,Late,No,2024-11-16
+856,Ellis PLC,Western Cape,Hospitality,11,2785662,20,477709,12,17.15,501,232138.5,Late,Yes,2025-12-04
+857,"Beard, Stein and Garcia",Northern Cape,Hospitality,14,3268097,116,753288,60,8.13,792,272341.42,Paid Off,No,2025-01-14
+858,Conley-Snyder,Western Cape,Manufacturing,3,3421613,10,227443,12,15.67,659,285134.42,Current,No,2025-11-07
+859,"Ramirez, Hicks and Brewer",KwaZulu-Natal,Technology,1,2559730,101,293768,48,13.79,825,213310.83,Current,No,2024-11-27
+860,"Johnston, Roberson and Williams",Western Cape,Technology,5,2174242,23,554136,36,16.25,571,181186.83,Current,No,2026-05-09
+861,Burgess and Sons,Gauteng,Hospitality,9,951980,100,767723,12,9.03,756,79331.67,Paid Off,No,2025-04-26
+862,Cherry-Garcia,Eastern Cape,Retail,19,1334599,128,918150,12,8.7,558,111216.58,Current,No,2026-06-13
+863,Diaz and Sons,Free State,Technology,9,4779020,84,793787,12,15.19,589,398251.67,Paid Off,No,2026-07-01
+864,"Kennedy, Carter and Martinez",Northern Cape,Manufacturing,11,1860968,116,996301,12,15.34,755,155080.67,Paid Off,No,2025-06-18
+865,Diaz and Sons,Northern Cape,Manufacturing,17,3340216,147,308490,12,11.38,777,278351.33,Paid Off,No,2026-08-24
+866,"Bell, Williams and Johnson",Gauteng,Agriculture,18,4906799,89,762992,24,8.69,835,408899.92,Current,No,2026-05-03
+867,"Thompson, Cox and Johnson",Western Cape,Agriculture,16,4328316,27,716775,24,7.38,560,360693.0,Late,Yes,2025-09-01
+868,Faulkner Ltd,Free State,Agriculture,17,3521147,93,733542,12,5.76,517,293428.92,Paid Off,No,2024-12-15
+869,Bell-Roberts,Eastern Cape,Technology,1,394768,13,257193,48,8.87,786,32897.33,Current,No,2025-03-14
+870,Flores-Boyer,Mpumalanga,Technology,19,3451191,10,219708,12,17.93,537,287599.25,Current,No,2025-03-16
+871,"Compton, Alexander and Terry",Free State,Hospitality,9,722207,38,352107,12,17.58,514,60183.92,Current,No,2023-11-25
+872,Webb-Salazar,Limpopo,Agriculture,12,1075924,105,853789,24,11.86,824,89660.33,Late,Yes,2023-11-08
+873,"Cooper, Wilson and Wright",Free State,Transport,7,4856004,101,359878,48,15.46,516,404667.0,Current,No,2025-11-11
+874,Fuentes-Ross,North West,Transport,9,4535686,16,865977,12,11.22,830,377973.83,Current,No,2026-01-13
+875,"Smith, Graves and Foster",Mpumalanga,Hospitality,18,1740913,103,894614,24,16.93,691,145076.08,Current,No,2025-07-21
+876,Reeves Ltd,Free State,Technology,13,4759014,34,779992,12,14.36,718,396584.5,Late,No,2025-08-10
+877,Craig Group,Free State,Hospitality,6,4276852,79,640176,36,11.74,737,356404.33,Late,Yes,2025-05-19
+878,Young Group,Western Cape,Transport,15,2072613,125,568728,36,14.24,806,172717.75,Late,Yes,2025-06-10
+879,"Rodriguez, Small and Butler",KwaZulu-Natal,Manufacturing,6,1707245,149,947883,36,9.63,635,142270.42,Current,No,2025-11-01
+880,Mitchell Inc,Gauteng,Transport,13,1209229,44,797895,60,15.14,531,100769.08,Current,No,2026-07-23
+881,James and Sons,Northern Cape,Retail,4,1596030,26,801938,36,6.47,560,133002.5,Current,No,2026-01-08
+882,Mullins-Hunt,Limpopo,Transport,18,4509013,41,661516,60,14.96,689,375751.08,Paid Off,No,2024-03-08
+883,Aguirre-Maldonado,Mpumalanga,Hospitality,8,277265,83,819362,60,8.29,505,23105.42,Late,No,2024-04-18
+884,"Mcconnell, Bennett and Gonzales",Northern Cape,Technology,7,2445170,48,513134,60,11.62,629,203764.17,Late,No,2026-07-02
+885,Velasquez-Adams,Northern Cape,Retail,6,1755464,71,408243,36,12.13,732,146288.67,Current,No,2025-02-22
+886,Hebert and Sons,Mpumalanga,Transport,15,2569485,24,943964,60,16.17,844,214123.75,Current,No,2025-07-13
+887,Alvarez-Martinez,Gauteng,Construction,4,4898064,103,747389,48,8.7,723,408172.0,Current,No,2023-10-18
+888,"Cruz, Allen and Reed",North West,Hospitality,3,2544149,64,688902,48,11.92,719,212012.42,Late,No,2025-05-24
+889,Lewis Group,Gauteng,Transport,5,899717,1,454189,36,8.45,540,74976.42,Current,No,2026-06-18
+890,Ward-Rhodes,North West,Technology,11,1604329,21,779274,60,15.21,511,133694.08,Current,No,2023-12-02
+891,Marquez LLC,Mpumalanga,Technology,11,4224741,37,505040,36,10.02,567,352061.75,Current,No,2025-11-05
+892,"Ali, Morrison and Scott",Eastern Cape,Agriculture,14,1501471,64,112894,24,10.59,827,125122.58,Current,No,2026-05-11
+893,Bell-Hill,Gauteng,Hospitality,18,2998845,25,856804,24,6.36,509,249903.75,Late,No,2024-12-14
+894,Mullen-Hensley,Gauteng,Retail,1,753668,56,308430,12,9.43,746,62805.67,Current,No,2026-03-20
+895,Crawford Inc,KwaZulu-Natal,Retail,6,2940152,147,237840,48,9.54,730,245012.67,Late,No,2026-05-23
+896,Jimenez Ltd,Eastern Cape,Construction,18,3168929,17,504472,12,5.53,594,264077.42,Current,No,2026-08-04
+897,"Mitchell, Martinez and Peterson",Gauteng,Agriculture,18,4235554,37,194938,24,11.85,506,352962.83,Current,No,2026-06-02
+898,"Peters, Griffin and Williams",Mpumalanga,Hospitality,16,1564458,65,197702,12,8.2,597,130371.5,Current,No,2023-11-02
+899,Davis Inc,KwaZulu-Natal,Manufacturing,17,1276957,74,816552,60,14.6,510,106413.08,Current,No,2025-11-18
+900,"Taylor, Snyder and Becker",Free State,Agriculture,12,1818303,80,956399,48,8.49,686,151525.25,Current,No,2024-02-07
+901,Stephenson-Woods,Limpopo,Technology,11,3028751,17,258851,60,6.67,741,252395.92,Paid Off,No,2024-02-27
+902,Lopez LLC,Free State,Hospitality,3,1936517,113,401637,36,11.45,566,161376.42,Late,No,2024-03-17
+903,"Parsons, Wilson and Glenn",Mpumalanga,Technology,16,2418292,58,332488,48,10.9,677,201524.33,Late,Yes,2024-05-08
+904,"Smith, Manning and Gonzalez",Western Cape,Agriculture,4,789317,108,457124,36,10.49,586,65776.42,Current,No,2025-11-22
+905,Carr Inc,KwaZulu-Natal,Technology,13,2559622,137,196903,36,10.6,644,213301.83,Current,No,2024-11-28
+906,"Williams, Mathews and Horne",Western Cape,Agriculture,8,2680309,31,219809,12,16.63,510,223359.08,Current,No,2024-05-20
+907,Smith Group,Free State,Manufacturing,11,4836416,19,968269,12,16.64,833,403034.67,Late,Yes,2025-03-01
+908,Morris LLC,Limpopo,Hospitality,6,896266,118,676480,60,12.61,778,74688.83,Current,No,2025-05-02
+909,Dunn Ltd,Eastern Cape,Technology,4,3118967,45,815110,48,11.71,506,259913.92,Current,No,2024-02-29
+910,Johnson-Martinez,KwaZulu-Natal,Construction,19,3882164,113,762755,48,6.51,787,323513.67,Paid Off,No,2025-02-17
+911,"Ramos, Foster and Jefferson",Free State,Transport,8,2232942,51,625300,60,9.78,517,186078.5,Current,No,2025-10-21
+912,"Oliver, Williams and Bailey",Limpopo,Agriculture,17,4558434,129,814489,36,7.38,624,379869.5,Paid Off,No,2025-03-12
+913,Mcgrath-Henderson,Northern Cape,Retail,12,1226018,100,876434,60,16.85,742,102168.17,Paid Off,No,2024-03-15
+914,Morrison and Sons,Limpopo,Transport,4,1068410,21,363760,60,6.51,625,89034.17,Late,No,2025-07-26
+915,"James, Blake and Smith",Limpopo,Transport,9,1368962,61,990325,36,17.95,537,114080.17,Current,No,2024-03-26
+916,"Holmes, Hudson and Anderson",Mpumalanga,Retail,14,4661786,140,614365,36,12.98,493,388482.17,Current,No,2024-02-01
+917,Rodriguez Group,Northern Cape,Hospitality,1,1815872,97,192108,60,16.1,774,151322.67,Current,No,2023-12-09
+918,"Diaz, Thompson and King",Eastern Cape,Agriculture,10,2067582,87,890268,60,10.25,836,172298.5,Current,No,2024-04-01
+919,Hopkins-Thomas,Limpopo,Technology,1,3363457,30,744519,48,16.19,518,280288.08,Paid Off,No,2024-04-05
+920,Washington Group,Western Cape,Construction,7,3142244,121,636864,60,15.3,574,261853.67,Late,No,2024-10-31
+921,"Palmer, Aguilar and Brewer",Gauteng,Retail,1,4116899,20,898934,60,11.42,503,343074.92,Paid Off,No,2025-06-05
+922,Medina-Wallace,Northern Cape,Manufacturing,18,1233629,115,362094,24,11.58,491,102802.42,Current,No,2026-08-20
+923,"Richards, Patel and Valdez",KwaZulu-Natal,Agriculture,19,649391,141,477479,24,8.37,691,54115.92,Current,No,2025-11-10
+924,Li Ltd,Free State,Retail,19,940597,25,900122,12,16.37,534,78383.08,Late,Yes,2026-04-22
+925,"Jackson, Lee and Harper",Mpumalanga,Retail,19,4705677,124,835427,12,8.28,682,392139.75,Current,No,2024-06-04
+926,Bright Ltd,North West,Retail,3,1650642,121,793249,12,12.05,603,137553.5,Current,No,2026-08-07
+927,Allen and Sons,Gauteng,Technology,4,344697,125,60207,48,9.45,559,28724.75,Late,Yes,2025-01-04
+928,Ramsey-Poole,Eastern Cape,Transport,8,2114751,14,649608,12,14.7,615,176229.25,Late,Yes,2023-12-04
+929,Doyle Group,Eastern Cape,Retail,4,3186810,19,750251,60,14.36,574,265567.5,Current,No,2023-12-20
+930,Cordova-Paul,North West,Agriculture,9,4474984,125,449130,36,12.91,722,372915.33,Current,No,2026-06-28
+931,"Lucas, Tucker and Rosales",Western Cape,Retail,12,2719909,83,686712,60,9.87,454,226659.08,Late,No,2024-07-02
+932,Ferguson LLC,Western Cape,Construction,5,317767,16,111394,12,7.75,787,26480.58,Late,Yes,2026-03-08
+933,Schmitt Group,Mpumalanga,Hospitality,11,3969108,144,608910,48,13.3,817,330759.0,Paid Off,No,2025-09-08
+934,King-Gregory,North West,Construction,12,1296688,12,94772,12,14.48,513,108057.33,Paid Off,No,2026-09-02
+935,Hall-Clark,Western Cape,Construction,1,1027281,39,366855,36,11.35,842,85606.75,Current,No,2025-04-08
+936,Gomez PLC,Limpopo,Manufacturing,17,3871414,54,796470,24,10.85,543,322617.83,Current,No,2024-02-19
+937,Allison-Mahoney,Mpumalanga,Retail,16,3529985,118,312838,48,11.29,577,294165.42,Current,No,2024-01-29
+938,Pollard-Morgan,North West,Manufacturing,2,2339665,12,431050,48,6.43,791,194972.08,Current,No,2026-05-26
+939,Stephens LLC,Free State,Retail,9,1509277,30,185174,12,13.73,665,125773.08,Paid Off,No,2023-12-08
+940,Robinson-Bright,Free State,Technology,19,1061743,77,816164,60,7.27,771,88478.58,Paid Off,No,2026-02-15
+941,Gonzales Ltd,Gauteng,Construction,15,203021,5,839703,60,8.47,659,16918.42,Current,No,2024-12-22
+942,Martinez-Stephens,Limpopo,Agriculture,8,316194,75,406930,36,9.05,677,26349.5,Late,No,2026-09-27
+943,Andrews PLC,KwaZulu-Natal,Transport,6,1134023,43,887056,12,13.82,779,94501.92,Late,Yes,2023-11-23
+944,Peterson-Lynch,Eastern Cape,Construction,19,4574220,5,398249,60,5.44,657,381185.0,Current,No,2025-07-17
+945,Watson and Sons,Eastern Cape,Hospitality,14,1528931,95,618806,12,5.43,788,127410.92,Current,No,2026-08-08
+946,Rojas LLC,Free State,Technology,14,3288027,27,791165,24,6.85,759,274002.25,Current,No,2026-07-03
+947,Anderson-Burgess,Mpumalanga,Construction,13,4963099,40,775010,36,14.2,706,413591.58,Current,No,2026-07-03
+948,"Lucas, Phillips and Mccormick",Northern Cape,Agriculture,19,584103,130,917413,60,16.89,773,48675.25,Paid Off,No,2024-05-20
+949,"Wheeler, Chapman and Gardner",North West,Manufacturing,19,2563501,32,746343,24,12.79,561,213625.08,Late,Yes,2026-05-11
+950,"Alvarado, Rice and Wilson",Northern Cape,Transport,12,363356,38,694673,12,12.35,747,30279.67,Late,Yes,2024-07-09
+951,"Johnson, Navarro and Johnson",Eastern Cape,Technology,14,1458293,13,912552,36,14.27,467,121524.42,Paid Off,No,2024-04-19
+952,Rogers Inc,Limpopo,Hospitality,7,2205777,29,351343,12,8.88,504,183814.75,Paid Off,No,2026-08-15
+953,Becker-Foley,Limpopo,Hospitality,5,1091993,141,350706,24,10.92,651,90999.42,Current,No,2026-07-10
+954,Cox-Powell,Limpopo,Hospitality,8,1380280,46,167419,60,5.32,765,115023.33,Current,No,2025-10-15
+955,"Peters, Thornton and Fleming",KwaZulu-Natal,Manufacturing,1,548402,52,813260,12,5.01,482,45700.17,Current,No,2025-05-12
+956,Peterson-Johnson,Gauteng,Technology,6,1621093,24,989446,60,17.82,762,135091.08,Current,No,2024-05-29
+957,Russell and Sons,Western Cape,Transport,13,386539,99,593044,24,7.9,806,32211.58,Paid Off,No,2024-06-09
+958,Smith-Wise,Free State,Manufacturing,17,3189809,124,529456,24,17.23,666,265817.42,Current,No,2026-09-18
+959,"Fox, Oconnor and Parker",Limpopo,Technology,11,1817354,106,800782,60,16.11,467,151446.17,Current,No,2025-08-08
+960,Christensen-Jones,Eastern Cape,Retail,12,3258562,84,642138,24,15.58,766,271546.83,Current,No,2025-12-12
+961,"Keller, Craig and Hopkins",Free State,Hospitality,6,3891860,62,407054,12,11.12,624,324321.67,Current,No,2026-07-13
+962,"Mueller, Short and Woodard",Western Cape,Technology,9,1129922,128,284745,36,16.26,462,94160.17,Current,No,2026-04-12
+963,Forbes-Jones,Northern Cape,Technology,18,3012044,15,961011,48,8.84,618,251003.67,Current,No,2026-04-23
+964,"Gillespie, Russell and Bond",North West,Retail,11,2142532,107,996881,24,8.77,683,178544.33,Current,No,2025-06-19
+965,Matthews Ltd,Western Cape,Agriculture,10,2764119,68,312571,12,5.11,634,230343.25,Current,No,2026-03-18
+966,Griffith-Holmes,KwaZulu-Natal,Retail,8,4808415,110,101690,60,13.5,584,400701.25,Paid Off,No,2025-09-27
+967,"Davis, Silva and Soto",KwaZulu-Natal,Technology,4,2579129,144,905434,36,17.28,466,214927.42,Current,No,2025-03-29
+968,Evans-Guzman,Limpopo,Manufacturing,5,3971549,116,500415,60,11.38,690,330962.42,Current,No,2025-01-17
+969,Christensen-Rios,Free State,Transport,7,4309020,97,110261,36,15.16,842,359085.0,Current,No,2026-06-18
+970,"Johnston, Rodriguez and Jackson",North West,Retail,13,655134,92,910075,36,13.7,642,54594.5,Paid Off,No,2024-01-28
+971,Brady Group,Northern Cape,Construction,11,1750882,26,411998,60,6.48,706,145906.83,Late,No,2025-06-27
+972,Knight and Sons,Eastern Cape,Technology,6,3096038,51,728283,12,8.39,800,258003.17,Current,No,2026-02-07
+973,Huff Ltd,Eastern Cape,Construction,1,1524241,109,952810,48,9.38,694,127020.08,Late,Yes,2023-11-17
+974,Peterson and Sons,Mpumalanga,Technology,6,3516502,24,474466,24,13.42,576,293041.83,Current,No,2026-02-03
+975,Gutierrez Inc,Limpopo,Manufacturing,9,2566704,2,312640,48,7.23,685,213892.0,Paid Off,No,2025-09-18
+976,Burgess and Sons,Western Cape,Technology,15,2213527,92,288117,36,5.5,580,184460.58,Paid Off,No,2024-01-09
+977,Mcbride-Walker,Free State,Technology,7,2342019,29,112999,24,17.17,693,195168.25,Paid Off,No,2025-05-23
+978,Gill and Sons,KwaZulu-Natal,Manufacturing,5,1090170,122,734765,36,16.89,564,90847.5,Current,No,2026-08-02
+979,Rowland-Bailey,Free State,Construction,17,2903528,91,672068,36,7.86,746,241960.67,Late,No,2026-04-29
+980,Dean and Sons,Mpumalanga,Construction,10,3559340,95,122894,12,13.93,798,296611.67,Current,No,2024-08-28
+981,Aguirre and Sons,KwaZulu-Natal,Transport,12,1766561,87,225793,12,14.17,643,147213.42,Current,No,2025-10-03
+982,"Hines, Walker and Cruz",Limpopo,Transport,18,319356,48,435296,48,8.35,603,26613.0,Current,No,2025-03-10
+983,Mathews-Murray,Mpumalanga,Technology,2,4309229,134,792147,24,14.4,690,359102.42,Late,Yes,2026-03-20
+984,Young LLC,Northern Cape,Transport,10,150818,115,201967,24,15.74,597,12568.17,Current,No,2025-02-24
+985,Reyes LLC,Northern Cape,Technology,8,3907114,21,934735,36,8.53,813,325592.83,Late,Yes,2024-10-15
+986,Cole PLC,Gauteng,Agriculture,15,3390633,114,184042,24,14.17,461,282552.75,Current,No,2026-09-18
+987,"Callahan, Jones and Vargas",North West,Transport,1,4847492,123,64126,12,6.47,544,403957.67,Current,No,2023-10-31
+988,Bailey Inc,Mpumalanga,Transport,12,705502,133,488092,12,9.26,541,58791.83,Current,No,2026-01-23
+989,Marshall-Jenkins,Free State,Construction,7,4031926,105,348307,24,11.25,629,335993.83,Current,No,2024-12-04
+990,Butler-Greene,Western Cape,Retail,17,1549299,26,513609,24,13.92,792,129108.25,Current,No,2024-12-18
+991,Wiley-Carrillo,Northern Cape,Technology,9,2128217,17,709297,48,7.78,829,177351.42,Current,No,2024-06-30
+992,"Stephens, Young and Marsh",Mpumalanga,Agriculture,4,1759848,80,944415,48,8.12,741,146654.0,Late,No,2024-06-02
+993,"Williams, Hopkins and Contreras",KwaZulu-Natal,Transport,13,2075516,74,67669,60,14.73,780,172959.67,Current,No,2024-12-02
+994,Farley Ltd,Eastern Cape,Transport,1,3127929,138,279707,36,10.56,847,260660.75,Current,No,2024-12-31
+995,Mcdaniel and Sons,Mpumalanga,Manufacturing,4,627169,42,882345,12,11.28,694,52264.08,Late,Yes,2026-09-19
+996,"Contreras, Ellison and Barnes",Mpumalanga,Retail,4,394977,112,676854,24,17.86,522,32914.75,Current,No,2025-07-18
+997,Jacobson and Sons,Northern Cape,Construction,11,2570950,100,719800,36,11.76,773,214245.83,Current,No,2024-08-26
+998,Flores-Richard,Eastern Cape,Construction,12,2695301,9,915796,60,12.01,646,224608.42,Late,Yes,2026-03-11
+999,Marks-Bell,Mpumalanga,Hospitality,10,1694575,113,710457,60,5.29,574,141214.58,Late,No,2025-06-18
+1000,Fields-Lopez,North West,Manufacturing,15,1387256,99,683018,24,16.31,756,115604.67,Late,Yes,2026-08-29
+1001,Ward PLC,Western Cape,Retail,6,789517,95,423519,12,11.25,508,65793.08,Paid Off,No,2024-12-05
+1002,Diaz-Myers,Gauteng,Transport,15,4469246,28,114829,24,7.59,804,372437.17,Paid Off,No,2024-03-22
+1003,"Stephens, Ashley and Roberts",Free State,Retail,19,4578597,83,964048,60,17.95,457,381549.75,Current,No,2024-06-10
+1004,Douglas Group,Mpumalanga,Retail,12,3667008,50,497095,60,6.56,520,305584.0,Current,No,2025-09-01
+1005,Petersen Group,North West,Manufacturing,17,4944405,134,195871,36,10.3,649,412033.75,Late,Yes,2025-09-07
+1006,Hill-Obrien,Gauteng,Technology,18,1383596,34,99892,24,15.54,795,115299.67,Current,No,2024-11-14
+1007,"Freeman, Clayton and Perez",Gauteng,Transport,7,4367831,26,196511,36,9.07,614,363985.92,Paid Off,No,2025-02-06
+1008,Jones Inc,Mpumalanga,Agriculture,12,280116,7,64633,60,16.67,766,23343.0,Paid Off,No,2024-11-16
+1009,Stewart Ltd,Mpumalanga,Manufacturing,1,1352825,134,255538,48,7.64,474,112735.42,Current,No,2024-09-17
+1010,Jefferson-Simpson,Free State,Manufacturing,7,411416,69,187980,48,5.64,542,34284.67,Current,No,2024-09-27
+1011,"Bowers, Harris and Fields",Mpumalanga,Technology,3,1090391,131,105063,60,13.68,771,90865.92,Current,No,2026-06-30
+1012,Smith-Mcclain,Western Cape,Agriculture,3,4809822,48,599666,12,17.75,629,400818.5,Late,No,2025-06-08
+1013,James-Austin,KwaZulu-Natal,Technology,8,2542367,74,972996,48,9.75,505,211863.92,Current,No,2023-12-07
+1014,Ortiz and Sons,Limpopo,Construction,16,3187686,93,866309,12,13.44,571,265640.5,Current,No,2024-12-25
+1015,"Murphy, Barnett and Green",Gauteng,Agriculture,10,2018135,9,404398,36,9.28,722,168177.92,Current,No,2025-11-05
+1016,Garcia-Andrade,Free State,Agriculture,18,2741532,20,531995,24,15.2,510,228461.0,Current,No,2026-05-11
+1017,Randall-Ellis,Mpumalanga,Agriculture,5,2018715,41,613339,60,15.25,804,168226.25,Paid Off,No,2023-11-12
+1018,"Aguilar, Johnson and Cohen",Gauteng,Transport,9,237405,38,825807,36,9.39,791,19783.75,Current,No,2024-11-30
+1019,Lewis-Steele,Western Cape,Manufacturing,19,3219810,122,74918,48,8.88,619,268317.5,Paid Off,No,2024-03-27
+1020,Erickson and Sons,North West,Retail,12,2803934,110,521386,60,5.85,757,233661.17,Current,No,2025-08-30
+1021,Cantu PLC,Eastern Cape,Technology,19,2880596,62,944287,60,15.44,601,240049.67,Paid Off,No,2024-06-11
+1022,"Alvarez, Liu and Valdez",Gauteng,Agriculture,13,2901329,85,939532,12,12.49,709,241777.42,Paid Off,No,2023-10-30
+1023,Russell-Diaz,Gauteng,Technology,16,573818,112,331039,48,16.34,696,47818.17,Current,No,2026-02-03
+1024,"Hall, Smith and Campos",Eastern Cape,Retail,2,687371,74,145028,12,7.57,847,57280.92,Paid Off,No,2025-08-22
+1025,Hernandez-Martin,Mpumalanga,Manufacturing,6,1692210,89,871482,12,15.57,490,141017.5,Current,No,2025-07-18
+1026,Bell PLC,Mpumalanga,Retail,16,4285011,92,443807,12,13.04,583,357084.25,Late,No,2025-10-19
+1027,Mann PLC,Western Cape,Hospitality,19,449760,98,144515,24,8.61,735,37480.0,Late,No,2025-12-28
+1028,"Ward, Wiggins and May",North West,Manufacturing,3,2019398,87,475031,48,15.79,692,168283.17,Current,No,2024-03-05
+1029,Butler-Miller,Limpopo,Construction,12,2112236,134,374888,36,14.7,813,176019.67,Current,No,2024-09-28
+1030,Kelly Inc,North West,Manufacturing,19,4611496,48,405439,60,11.49,700,384291.33,Current,No,2026-02-01
+1031,"Young, Garner and Hernandez",Limpopo,Construction,10,1724438,134,397692,60,8.14,830,143703.17,Current,No,2025-07-30
+1032,"White, Smith and Carlson",KwaZulu-Natal,Technology,12,4625605,60,475658,24,5.62,834,385467.08,Current,No,2026-08-10
+1033,"Bolton, Evans and Foster",Eastern Cape,Hospitality,8,1692063,96,976570,24,5.15,657,141005.25,Late,Yes,2025-10-02
+1034,Rodriguez and Sons,Gauteng,Construction,4,3371335,11,821122,60,5.83,828,280944.58,Paid Off,No,2026-10-01
+1035,Walker-Hall,KwaZulu-Natal,Transport,8,4861631,128,367399,36,13.7,477,405135.92,Current,No,2026-08-27
+1036,Davenport-Irwin,Northern Cape,Agriculture,15,2364381,44,55914,12,12.35,694,197031.75,Current,No,2026-04-13
+1037,"Robinson, Ortiz and Little",North West,Retail,8,4972367,127,240093,36,10.74,529,414363.92,Current,No,2025-07-19
+1038,Miller-Petty,North West,Retail,9,4336343,144,807262,60,17.51,634,361361.92,Current,No,2024-09-17
+1039,Curtis Ltd,Free State,Technology,8,3759248,127,973317,36,12.95,719,313270.67,Paid Off,No,2024-05-20
+1040,Ramirez-Frazier,North West,Manufacturing,19,4673483,93,903009,24,11.79,721,389456.92,Current,No,2025-09-27
+1041,Pruitt-Chan,North West,Technology,7,4685941,13,110204,36,14.95,526,390495.08,Current,No,2026-05-17
+1042,Lewis Group,Eastern Cape,Construction,7,1667431,126,926004,36,8.74,827,138952.58,Current,No,2025-01-24
+1043,Rhodes-Whitaker,Gauteng,Retail,2,732899,3,187559,48,12.2,726,61074.92,Current,No,2026-09-14
+1044,Newman-Clark,Free State,Transport,16,4642709,125,241196,12,7.41,572,386892.42,Late,Yes,2026-02-09
+1045,Smith PLC,Northern Cape,Construction,18,4036906,82,904967,36,10.95,776,336408.83,Late,Yes,2026-01-28
+1046,"Dennis, Garcia and Harrison",Free State,Construction,5,2963564,134,801794,24,11.34,781,246963.67,Current,No,2025-05-21
+1047,Hudson Inc,Free State,Retail,8,3336808,143,523050,60,10.07,453,278067.33,Current,No,2024-08-17
+1048,Smith Ltd,Eastern Cape,Construction,11,1128520,84,320628,24,16.42,634,94043.33,Current,No,2024-04-02
+1049,Riley and Sons,Mpumalanga,Transport,5,2777221,143,316013,48,6.5,537,231435.08,Late,Yes,2026-06-10
+1050,"Vasquez, Wright and Davis",Eastern Cape,Manufacturing,16,2341678,93,709292,12,7.22,812,195139.83,Late,No,2026-05-06
+1051,Christensen PLC,Limpopo,Construction,9,1170648,4,131015,60,9.09,757,97554.0,Current,No,2025-02-21
+1052,Patterson and Sons,KwaZulu-Natal,Agriculture,9,2643951,149,653688,36,9.27,837,220329.25,Current,No,2024-04-08
+1053,"Contreras, Harris and Williams",Western Cape,Manufacturing,12,3346532,131,119000,12,6.38,661,278877.67,Current,No,2026-05-25
+1054,Rogers-Ritter,KwaZulu-Natal,Manufacturing,17,2369590,3,470641,48,12.82,554,197465.83,Late,No,2024-07-07
+1055,"Lawrence, Yoder and Robertson",Gauteng,Retail,13,437850,145,583292,12,13.52,700,36487.5,Paid Off,No,2024-10-18
+1056,Foster Group,Northern Cape,Retail,10,2207719,74,612667,48,9.81,666,183976.58,Current,No,2024-11-08
+1057,Jones PLC,Free State,Construction,1,2777049,129,241634,48,7.34,521,231420.75,Paid Off,No,2025-04-03
+1058,Cooper-Hunter,Northern Cape,Transport,3,3370514,19,901601,24,7.88,501,280876.17,Paid Off,No,2026-09-28
+1059,Alexander-Davis,KwaZulu-Natal,Manufacturing,1,4594463,138,792636,36,12.88,740,382871.92,Paid Off,No,2026-04-26
+1060,Ward-Wood,Free State,Transport,15,3204857,13,91722,12,11.97,729,267071.42,Current,No,2024-11-29
+1061,Yang-Blake,Free State,Manufacturing,2,2967492,44,928383,36,17.49,648,247291.0,Current,No,2023-10-31
+1062,Miller and Sons,Eastern Cape,Technology,12,3408769,144,588785,24,16.45,730,284064.08,Current,No,2025-04-24
+1063,West-Rodriguez,KwaZulu-Natal,Hospitality,3,4928626,10,658530,36,14.19,636,410718.83,Paid Off,No,2026-03-07
+1064,Hammond Ltd,Eastern Cape,Technology,15,1259702,66,402465,36,5.78,495,104975.17,Current,No,2025-04-20
+1065,"Baker, Myers and Hughes",KwaZulu-Natal,Construction,16,4865257,87,868706,48,17.99,605,405438.08,Current,No,2024-10-24
+1066,Greer LLC,Western Cape,Transport,11,1874474,4,405247,60,12.88,848,156206.17,Current,No,2023-11-12
+1067,"King, Davidson and Walker",Mpumalanga,Retail,1,1323979,90,334329,36,5.82,745,110331.58,Late,Yes,2025-12-16
+1068,"Newman, Wright and Price",Northern Cape,Agriculture,8,2116211,86,702619,12,13.43,676,176350.92,Current,No,2024-07-23
+1069,"Prince, Martinez and Carter",Mpumalanga,Hospitality,12,2310980,107,960284,60,15.48,540,192581.67,Paid Off,No,2024-04-07
+1070,Lang and Sons,Limpopo,Retail,2,371609,44,771455,60,8.36,566,30967.42,Late,No,2024-11-08
+1071,Martinez-Lee,Gauteng,Hospitality,16,3324400,12,522919,36,10.25,835,277033.33,Current,No,2024-12-01
+1072,Mccall-Ochoa,North West,Transport,11,1423020,72,607658,12,17.77,649,118585.0,Paid Off,No,2025-01-23
+1073,Fisher-Walton,Limpopo,Hospitality,2,1534636,15,812580,24,14.54,560,127886.33,Current,No,2025-12-24
+1074,Turner PLC,Northern Cape,Technology,12,3678687,83,183624,24,14.72,757,306557.25,Late,No,2024-07-02
+1075,"Stevens, Rosario and Noble",Eastern Cape,Hospitality,17,372667,120,357674,12,10.43,503,31055.58,Paid Off,No,2026-03-04
+1076,"Bates, Porter and Cochran",Northern Cape,Transport,7,440526,149,218157,12,5.34,470,36710.5,Paid Off,No,2024-01-26
+1077,Jones and Sons,Mpumalanga,Hospitality,14,4215336,12,675710,60,9.41,662,351278.0,Paid Off,No,2024-10-10
+1078,Thomas-Walker,Eastern Cape,Transport,5,829672,26,65021,60,13.57,681,69139.33,Late,Yes,2025-10-01
+1079,Parker PLC,KwaZulu-Natal,Technology,19,4835790,53,379095,36,13.69,728,402982.5,Current,No,2024-05-23
+1080,Young-Price,Eastern Cape,Agriculture,5,221701,111,542281,24,6.65,673,18475.08,Current,No,2025-06-06
+1081,Mendez-Jones,Western Cape,Hospitality,19,2190923,110,942135,48,10.39,711,182576.92,Current,No,2025-12-23
+1082,Hogan-Cooper,Limpopo,Manufacturing,5,2035272,78,350065,48,13.51,829,169606.0,Late,No,2024-01-21
+1083,Morris Group,KwaZulu-Natal,Technology,12,2282931,24,53060,24,10.42,816,190244.25,Current,No,2026-04-08
+1084,"Kennedy, Cohen and Barker",KwaZulu-Natal,Transport,13,4583900,27,465941,24,17.27,665,381991.67,Current,No,2025-12-25
+1085,"Jensen, Greene and Brooks",Free State,Retail,7,924255,116,645446,60,16.1,782,77021.25,Current,No,2025-04-25
+1086,Baker and Sons,Northern Cape,Construction,2,240689,10,518484,60,11.83,468,20057.42,Current,No,2025-06-02
+1087,"Watson, King and Davis",Free State,Manufacturing,13,1680296,94,506791,36,15.62,495,140024.67,Paid Off,No,2023-12-19
+1088,Perkins PLC,North West,Manufacturing,8,3177165,28,676549,60,13.99,495,264763.75,Late,No,2024-06-25
+1089,Goodman Group,Western Cape,Construction,18,4750914,75,247118,24,6.46,782,395909.5,Current,No,2025-07-11
+1090,Dunn LLC,Gauteng,Construction,15,4293513,106,629886,12,5.44,544,357792.75,Current,No,2023-12-25
+1091,Phillips-Brown,Eastern Cape,Transport,15,3289291,95,68361,48,5.13,825,274107.58,Late,No,2024-02-04
+1092,Rojas-Sutton,Limpopo,Construction,9,3922270,55,303800,48,9.75,649,326855.83,Current,No,2025-06-23
+1093,"Hansen, Erickson and Tanner",North West,Transport,13,2831645,41,68170,24,10.57,837,235970.42,Late,No,2025-09-03
+1094,Randall-Gonzalez,North West,Hospitality,8,2273367,95,687197,12,11.68,583,189447.25,Current,No,2025-10-16
+1095,"Murphy, Sutton and Fischer",Northern Cape,Technology,12,1921936,59,564060,60,13.49,596,160161.33,Current,No,2026-02-14
+1096,Miller PLC,Mpumalanga,Retail,6,3476042,23,451392,48,6.41,699,289670.17,Current,No,2025-07-19
+1097,Castro LLC,Mpumalanga,Agriculture,13,3790339,40,280502,60,13.93,675,315861.58,Current,No,2023-10-08
+1098,Reyes LLC,KwaZulu-Natal,Hospitality,1,3834049,22,805947,60,16.23,677,319504.08,Current,No,2026-06-21
+1099,Mccormick Ltd,Gauteng,Hospitality,5,4911102,93,143708,24,12.34,477,409258.5,Current,No,2025-04-25
+1100,Franklin LLC,Western Cape,Agriculture,5,619676,87,797075,48,7.5,675,51639.67,Late,No,2026-09-20
+1101,Flynn PLC,Limpopo,Hospitality,9,1256714,107,781385,12,13.82,538,104726.17,Late,No,2026-06-01
+1102,"Lee, Strickland and Wade",North West,Transport,15,1225664,107,579896,12,13.43,549,102138.67,Late,No,2026-03-02
+1103,Johnson-Santos,KwaZulu-Natal,Transport,16,2411753,96,930650,24,11.66,736,200979.42,Current,No,2025-04-02
+1104,Massey-Duran,Limpopo,Transport,3,1082912,16,497154,48,17.37,513,90242.67,Current,No,2023-10-17
+1105,"Jimenez, Vega and Hernandez",Free State,Agriculture,13,3883847,79,111836,48,14.42,629,323653.92,Paid Off,No,2025-04-16
+1106,Taylor Inc,Northern Cape,Transport,15,4946113,59,496021,60,12.53,466,412176.08,Current,No,2026-04-15
+1107,Johnson Inc,KwaZulu-Natal,Technology,6,1797152,138,218204,36,15.33,636,149762.67,Late,No,2023-11-27
+1108,Williams Group,Western Cape,Transport,4,3918067,62,870178,60,5.54,491,326505.58,Paid Off,No,2026-01-17
+1109,"Roberts, Freeman and Nguyen",Gauteng,Hospitality,19,1192924,141,776547,48,7.75,555,99410.33,Late,Yes,2025-11-07
+1110,Jackson-Navarro,Northern Cape,Manufacturing,8,312628,54,161889,24,11.73,643,26052.33,Current,No,2026-05-09
+1111,Campbell and Sons,Western Cape,Hospitality,4,4871873,119,355415,12,9.65,587,405989.42,Current,No,2024-05-07
+1112,"Hill, Horton and Vazquez",Limpopo,Technology,6,924726,53,647565,48,14.58,495,77060.5,Current,No,2026-07-27
+1113,Sanchez-Sawyer,Northern Cape,Technology,8,2086373,34,673756,12,14.77,557,173864.42,Current,No,2026-04-16
+1114,Wheeler PLC,Gauteng,Retail,5,3786207,141,658919,60,9.3,739,315517.25,Late,No,2026-07-16
+1115,Franklin-Bell,KwaZulu-Natal,Construction,1,215064,128,542492,48,5.92,567,17922.0,Paid Off,No,2024-06-20
+1116,Moyer-Munoz,Eastern Cape,Transport,10,4362551,57,232631,36,15.59,560,363545.92,Current,No,2025-03-01
+1117,Wilcox-Charles,Limpopo,Hospitality,4,473921,2,97003,12,15.4,800,39493.42,Current,No,2026-05-31
+1118,"Dominguez, Smith and Khan",Limpopo,Technology,6,3919128,112,558524,12,13.11,765,326594.0,Paid Off,No,2024-12-25
+1119,Evans-Horton,Gauteng,Technology,12,1236263,11,377222,24,12.6,557,103021.92,Current,No,2025-06-03
+1120,"Collier, Valenzuela and Obrien",Gauteng,Manufacturing,17,2142896,48,945043,60,9.68,582,178574.67,Late,No,2026-07-22
+1121,Powell-Sanchez,Western Cape,Construction,8,2736859,102,609865,36,10.46,811,228071.58,Paid Off,No,2024-09-27
+1122,Fernandez-Benson,Gauteng,Agriculture,9,2124676,42,122828,48,11.45,707,177056.33,Current,No,2025-01-19
+1123,Green PLC,Northern Cape,Retail,13,4978154,124,502220,60,12.24,619,414846.17,Current,No,2025-01-24
+1124,Garrison and Sons,Gauteng,Manufacturing,6,1045424,107,268811,12,6.72,804,87118.67,Paid Off,No,2024-06-27
+1125,Jenkins-Meyer,Gauteng,Construction,4,4136589,20,838356,36,12.1,473,344715.75,Current,No,2024-01-07
+1126,Rivera-Wright,KwaZulu-Natal,Retail,15,4687826,73,400639,12,6.48,585,390652.17,Current,No,2023-10-19
+1127,Hartman-Martin,Free State,Retail,17,395863,77,878449,12,15.58,586,32988.58,Late,No,2025-05-02
+1128,Pacheco Ltd,Northern Cape,Hospitality,15,4606371,134,128563,36,15.77,629,383864.25,Paid Off,No,2025-07-17
+1129,Blevins-Hampton,Limpopo,Transport,16,3591650,142,972285,36,10.26,523,299304.17,Paid Off,No,2026-03-01
+1130,Lewis LLC,KwaZulu-Natal,Transport,14,4909073,69,627090,24,17.25,831,409089.42,Paid Off,No,2024-11-16
+1131,"Smith, Smith and Hall",Mpumalanga,Manufacturing,13,215042,83,177922,60,13.25,737,17920.17,Current,No,2026-06-01
+1132,Rodriguez LLC,KwaZulu-Natal,Manufacturing,10,3827904,12,585244,36,16.57,761,318992.0,Paid Off,No,2025-10-05
+1133,Black-Merritt,Eastern Cape,Transport,12,1083770,107,51832,48,6.31,811,90314.17,Current,No,2026-09-03
+1134,Mays-Williams,Mpumalanga,Transport,12,3325327,149,739009,24,10.82,462,277110.58,Paid Off,No,2024-08-10
+1135,"Henderson, Noble and Hunt",North West,Transport,14,4485316,124,746084,48,7.81,463,373776.33,Current,No,2023-12-17
+1136,Harris PLC,North West,Hospitality,19,136051,116,65909,60,11.59,532,11337.58,Paid Off,No,2024-09-11
+1137,"White, Nielsen and Graham",Free State,Agriculture,3,3178921,14,891847,24,9.03,577,264910.08,Late,No,2026-03-06
+1138,Warren Ltd,Free State,Retail,5,2660390,132,609486,48,13.38,465,221699.17,Current,No,2024-08-08
+1139,Thomas PLC,Eastern Cape,Hospitality,17,1297678,101,439027,12,17.15,775,108139.83,Paid Off,No,2024-10-11
+1140,"King, Osborne and Robinson",Eastern Cape,Agriculture,9,4829244,141,508189,24,12.46,453,402437.0,Paid Off,No,2024-11-30
+1141,"Lewis, Martin and Holland",Mpumalanga,Manufacturing,16,2332821,48,677128,48,6.28,518,194401.75,Paid Off,No,2025-06-24
+1142,"Johnson, Barnes and Ellis",North West,Construction,4,879680,96,835566,24,11.42,598,73306.67,Paid Off,No,2025-08-05
+1143,Howell-Jones,Mpumalanga,Manufacturing,17,3354534,1,211386,12,16.75,517,279544.5,Current,No,2026-05-05
+1144,Miranda and Sons,Eastern Cape,Agriculture,11,1518167,91,514702,24,17.86,786,126513.92,Paid Off,No,2025-11-15
+1145,Bennett-Patel,KwaZulu-Natal,Technology,3,3083130,50,534469,12,10.74,530,256927.5,Paid Off,No,2025-01-24
+1146,Wheeler-Johnson,Mpumalanga,Agriculture,5,1497636,70,795692,36,13.76,801,124803.0,Current,No,2025-05-07
+1147,Harrington-Larsen,Eastern Cape,Retail,9,202903,57,465874,60,10.15,667,16908.58,Current,No,2026-09-25
+1148,Houston PLC,Limpopo,Retail,19,4630543,90,141594,48,14.17,667,385878.58,Current,No,2024-10-02
+1149,Washington LLC,Limpopo,Manufacturing,9,2431499,25,760293,60,7.52,713,202624.92,Late,Yes,2025-07-14
+1150,Madden-Mayo,Limpopo,Agriculture,19,446990,111,886673,60,15.11,847,37249.17,Current,No,2024-10-09
+1151,White-Johnson,Eastern Cape,Technology,15,2654137,49,746203,36,8.91,492,221178.08,Late,No,2025-01-16
+1152,"Miller, Craig and Solis",North West,Manufacturing,7,4130272,138,647702,24,12.14,520,344189.33,Paid Off,No,2024-09-01
+1153,Martinez-Alexander,Northern Cape,Hospitality,5,4156926,113,289190,48,11.35,634,346410.5,Late,Yes,2026-08-18
+1154,"Rivera, Hamilton and Lee",Gauteng,Technology,16,2971042,138,299434,12,10.29,708,247586.83,Current,No,2023-12-05
+1155,Lewis-Lopez,Gauteng,Agriculture,17,4083190,135,501813,60,16.66,794,340265.83,Late,Yes,2024-09-29
+1156,Booth Inc,Mpumalanga,Construction,13,2359970,71,530001,60,7.77,465,196664.17,Current,No,2025-02-26
+1157,"Lambert, Williams and Garrett",Northern Cape,Construction,2,4254238,60,59759,36,13.11,754,354519.83,Paid Off,No,2024-04-08
+1158,Rojas PLC,Limpopo,Manufacturing,16,3345881,57,850019,12,8.78,838,278823.42,Paid Off,No,2024-05-11
+1159,"Pratt, Gray and Collins",Mpumalanga,Hospitality,17,4218308,6,688803,24,14.28,753,351525.67,Current,No,2025-04-09
+1160,Roberts LLC,Northern Cape,Agriculture,16,4370358,14,377507,48,15.3,462,364196.5,Current,No,2024-11-02
+1161,Lewis-Washington,Northern Cape,Technology,8,2092719,21,948138,36,13.62,569,174393.25,Paid Off,No,2025-01-07
+1162,"Clark, Patterson and Hughes",Eastern Cape,Retail,18,554377,9,778537,36,14.38,485,46198.08,Late,No,2024-07-14
+1163,Peterson-Norris,Free State,Hospitality,5,2037916,107,485436,60,17.73,472,169826.33,Current,No,2026-03-08
+1164,"James, Shelton and Jenkins",Northern Cape,Construction,19,2850728,48,477345,36,6.38,750,237560.67,Late,No,2026-05-06
+1165,Nguyen-Daniels,Eastern Cape,Technology,15,3313037,20,210966,60,7.2,465,276086.42,Current,No,2026-03-06
+1166,"Pacheco, Ramos and Watkins",Free State,Construction,5,3497477,82,915665,48,12.09,556,291456.42,Paid Off,No,2024-07-20
+1167,Cuevas-Farley,Gauteng,Hospitality,14,3472325,101,58078,48,12.08,456,289360.42,Current,No,2024-09-01
+1168,Watkins-Knight,Western Cape,Retail,13,251633,116,983758,24,11.38,658,20969.42,Late,Yes,2025-09-22
+1169,"Green, Wilson and Flores",Western Cape,Construction,15,987743,57,539562,12,14.48,502,82311.92,Current,No,2025-08-02
+1170,"Garcia, Tran and Gomez",Northern Cape,Hospitality,13,3610940,9,517018,36,5.9,738,300911.67,Current,No,2025-10-26
+1171,"Johnson, Bruce and Brown",Free State,Technology,4,1158271,119,98582,24,11.11,824,96522.58,Late,Yes,2025-11-19
+1172,Andrade-Trujillo,Western Cape,Agriculture,8,1599666,30,894846,24,8.23,514,133305.5,Paid Off,No,2023-10-08
+1173,"Mason, Holt and Cunningham",Eastern Cape,Retail,1,3742461,12,324025,60,13.6,582,311871.75,Late,No,2024-12-21
+1174,Green-Castillo,Western Cape,Retail,12,4078713,11,56553,24,7.68,805,339892.75,Current,No,2025-06-16
+1175,"Jones, Garcia and Hill",KwaZulu-Natal,Agriculture,12,3851413,62,391653,60,10.27,811,320951.08,Late,No,2026-07-30
+1176,Campbell-Ramirez,North West,Manufacturing,3,2377546,68,703524,60,11.63,467,198128.83,Current,No,2023-10-23
+1177,Anderson-Doyle,Free State,Hospitality,8,320421,138,294497,36,10.18,786,26701.75,Late,Yes,2026-07-13
+1178,"White, Ferrell and Richardson",Western Cape,Technology,9,2105187,61,208502,12,15.06,729,175432.25,Current,No,2023-10-12
+1179,"Cox, Henderson and Adams",North West,Retail,18,4910627,45,483714,60,16.74,501,409218.92,Current,No,2023-12-10
+1180,Robinson LLC,Northern Cape,Technology,11,1244000,124,778993,60,8.62,786,103666.67,Late,Yes,2024-07-12
+1181,Robinson-Shelton,KwaZulu-Natal,Manufacturing,19,4332879,142,577480,12,5.62,462,361073.25,Current,No,2023-10-09
+1182,"Castro, Clark and Johnson",Limpopo,Agriculture,13,261554,67,983951,60,17.17,550,21796.17,Late,Yes,2023-10-12
+1183,Carpenter Group,North West,Agriculture,13,1290866,6,383735,24,13.74,627,107572.17,Late,Yes,2026-02-09
+1184,Brown-Williams,Gauteng,Transport,3,3706556,10,431148,60,16.98,502,308879.67,Current,No,2024-10-04
+1185,Kim-Bennett,Northern Cape,Agriculture,15,1208731,36,994422,36,9.67,771,100727.58,Current,No,2024-09-02
+1186,"Malone, Miller and Aguirre",Mpumalanga,Construction,17,2088813,83,576761,60,13.91,493,174067.75,Current,No,2025-09-05
+1187,Clements and Sons,Limpopo,Transport,4,758561,50,287230,60,5.31,557,63213.42,Current,No,2024-08-07
+1188,Garza LLC,KwaZulu-Natal,Retail,14,4876827,90,874322,12,6.42,673,406402.25,Current,No,2023-11-26
+1189,"Floyd, Saunders and Wright",KwaZulu-Natal,Manufacturing,3,3427372,40,544897,48,14.67,783,285614.33,Current,No,2024-03-30
+1190,Allen Inc,Eastern Cape,Manufacturing,11,2052512,142,894647,48,10.86,840,171042.67,Current,No,2024-08-07
+1191,"Griffin, Brown and Jimenez",Gauteng,Hospitality,10,1054940,128,199485,24,11.25,467,87911.67,Current,No,2024-03-19
+1192,"Gray, Harrison and Thomas",Northern Cape,Manufacturing,5,1137140,44,87170,60,11.01,485,94761.67,Current,No,2025-02-02
+1193,Nunez-Nelson,North West,Retail,18,3827303,26,444861,48,10.95,646,318941.92,Paid Off,No,2025-04-25
+1194,Jackson-Alexander,Limpopo,Manufacturing,11,593570,73,788027,36,13.29,678,49464.17,Late,No,2024-05-26
+1195,Ramirez-Allen,Mpumalanga,Hospitality,8,1948523,127,399355,60,17.1,672,162376.92,Late,Yes,2024-10-01
+1196,Lopez Group,KwaZulu-Natal,Transport,12,4234129,102,206547,48,8.22,579,352844.08,Current,No,2025-08-17
+1197,Martin-Thomas,Limpopo,Retail,1,693167,140,641880,12,14.52,698,57763.92,Paid Off,No,2026-06-15
+1198,Ross-Johnson,North West,Agriculture,11,890023,113,143878,36,8.53,583,74168.58,Late,Yes,2025-01-30
+1199,Williams-Cervantes,Limpopo,Transport,19,923622,123,76014,48,9.75,659,76968.5,Current,No,2024-09-07
+1200,"Johnson, Bennett and Adams",Western Cape,Transport,12,1108008,105,411273,48,13.41,558,92334.0,Current,No,2025-05-16
